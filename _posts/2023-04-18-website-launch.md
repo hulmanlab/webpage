@@ -1,5 +1,5 @@
 ---
-title: Launching our website and newsletter
+title: "Launching our website and newsletter"
 author: Adam
 tags:
   - news
