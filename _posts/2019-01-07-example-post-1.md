@@ -3,9 +3,7 @@ title: Welcome...
 author: adam
 tags:
   - news
-icon:
-  - tip
-  - info
+icon: fa-solid fa-book
 ---
 
 ## Some exciting header
