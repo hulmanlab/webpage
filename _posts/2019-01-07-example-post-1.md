@@ -3,8 +3,9 @@ title: Welcome...
 author: adam
 tags:
   - news
-type:
-  - pi
+icon:
+  - tip
+  - info
 ---
 
 ## Some exciting header
