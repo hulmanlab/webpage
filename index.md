@@ -66,4 +66,4 @@ We are based at a Danish hospital, which gives us valuable insights into the hea
   caption="Aarhus University Hospital (Photo: Tonny Foghmar)"
 %}
 
-https://twitter.com/i/lists/715919216927322112
+<a class="twitter-timeline" href="https://twitter.com/adamhulman?ref_src=twsrc%5Etfw">Tweets by adamhulman</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
