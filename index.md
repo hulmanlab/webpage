@@ -1,6 +1,6 @@
 ---
 ---
-
+|||---||| :4,1
 # Machine learning with a clinical purpose
 
 The Hulman Lab is an interdisciplinary researcher group in machine learning and clinical prediction at [Steno Diabetes Center Aarhus](https://www.stenoaarhus.dk/), affiliated to the [Department of Public Health](https://ph.au.dk/) at Aarhus University, Denmark. We share a passion for data science and believe that applying machine learning methods to multimodal data from epidemiological cohorts and the healthcare sector can provide clinical insights and more comprehensive profiling of disease risk. 
@@ -66,4 +66,6 @@ We are based at a Danish hospital, which gives us valuable insights into the hea
   caption="Aarhus University Hospital (Photo: Tonny Foghmar)"
 %}
 
+#
 <a class="twitter-timeline" data-width="300" data-height="2000" data-theme="dark" href="https://twitter.com/adamhulman?ref_src=twsrc%5Etfw">Tweets by adamhulman</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+|||---|||
