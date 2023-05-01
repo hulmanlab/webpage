@@ -65,3 +65,5 @@ We are based at a Danish hospital, which gives us valuable insights into the hea
   text=text
   caption="Aarhus University Hospital (Photo: Tonny Foghmar)"
 %}
+
+https://twitter.com/i/lists/715919216927322112
