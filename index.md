@@ -1,7 +1,7 @@
 ---
 ---
 <aside>
-  <a class="twitter-timeline" data-width="320" data-height="1500" href="https://twitter.com/adamhulman?ref_src=twsrc%5Etfw">Tweets by adamhulman</a>
+  <a class="twitter-timeline" href="https://twitter.com/adamhulman?ref_src=twsrc%5Etfw">Tweets by adamhulman</a>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </aside>
 # Machine learning with a clinical purpose
