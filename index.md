@@ -27,7 +27,7 @@ The Hulman Lab is an interdisciplinary researcher group in machine learning and 
    caption="Manuel Thomasen, Adam Hulman (left to right, April 11th.)"
    width="100%" %}
 
-{% include section.html %}
+
 
 ## Our vision
 
