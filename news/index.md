@@ -24,6 +24,28 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include tags.html tags=site.tags %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+{% capture text %}
+
+Our group members represent a wide range of scientific profiles from data science, mathematics to sport science and medicine. We aim to combine our skills in interdisciplinary projects and then communicate our findings to both research communities.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  title="Events"
+  text=text
+%}
+
+{% capture text %}
+
+Our group members represent a wide range of scientific profiles from data science, mathematics to sport science and medicine. We aim to combine our skills in interdisciplinary projects and then communicate our findings to both research communities.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  title="Launching Website"
+  text=text
+%}
 
 {% include float.html clear=true %}
