@@ -1,0 +1,56 @@
+---
+---
+
+// match with vars at top of section.scss
+$page: 1000px;
+$padding: 40px;
+
+// screen width breakpoint
+$screen: 1800px;
+
+// if the screen is wide enough
+@media (min-width: $screen) {
+  // float aside next to section content
+  aside {
+    position: absolute;
+    // distance from screen edge. can change to "left" to switch side.
+    right: 40px;
+    // distance from section top
+    top: 60px;
+    // distance from section bottom, remove to let span over multiple sections
+    bottom: 60px;
+    // width = space on side of section, minus some padding
+    width: calc(max($padding, (100% - $page) / 2) - 100px);
+  }
+
+  // override twitter styles to fit to aside container
+  .twitter-timeline {
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+  // override twitter styles to fit to aside container
+  .twitter-timeline > iframe {
+    width: 100% !important;
+  }
+
+  // put section on top of others in stacking order, needed if aside spans over multiple sections
+  section:has(aside) {
+    z-index: 99 !important;
+  }
+}
+
+// if the screen is small
+@media (max-width: $screen) {
+  aside {
+    // optionally hide completely on small screen
+    // display: none;
+  }
+}
+
+.twitter-timeline {
+  // optionally limit timeline height
+  max-height: 1000px;
+  // scrollbar if timeline taller than containing aside
+  overflow-y: auto;
+}
