@@ -12,28 +12,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-{% capture col1 %}
+{%
+  include float.html
+  content=<a class="twitter-timeline" data-width="350" data-height="1250" href="https://twitter.com/adamhulman?ref_src=twsrc%5Etfw">Tweets by adamhulman</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  flip=true
+%}
 
 {% include tags.html tags=site.tags %}
 
 {% include list.html data="posts" component="post-excerpt" %}
 
-{% endcapture %}
 
-{% capture col2 %}
-
-<aside>
-  <a class="twitter-timeline" href="https://twitter.com/adamhulman?ref_src=twsrc%5Etfw">Tweets by adamhulman</a>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</aside>
-
-{% endcapture %}
-
-
-
-{%
-  include cols.html
-  col1=col1
-  col2=col2
-%}
-
+{% include float.html clear=true %}
