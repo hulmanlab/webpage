@@ -13,7 +13,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include section.html %}
 
 {% capture content %}
-  <a class="twitter-timeline" data-width="350" data-height="1250" href="https://twitter.com/adamhulman?ref_src=twsrc%5Etfw">Tweets by adamhulman</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" href="https://twitter.com/adamhulman?ref_src=twsrc%5Etfw">Tweets by adamhulman</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {% endcapture %}
 
 {%
