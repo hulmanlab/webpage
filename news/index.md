@@ -24,30 +24,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include tags.html tags=site.tags %}
 
-{% capture text %}
+## Event
+
+For the upcoming events, we have Talens club, for students who wants to colaborate with the laboratory, Journal club.....
+
+## Launching our website
 
 Our group members represent a wide range of scientific profiles from data science, mathematics to sport science and medicine. We aim to combine our skills in interdisciplinary projects and then communicate our findings to both research communities.
 
-{% endcapture %}
-
-{%
-  include feature.html
-  title="Events"
-  image="images/NaN.jpg"
-  link=NaN
-  text=text
-%}
-
-{% capture text %}
-
-Our group members represent a wide range of scientific profiles from data science, mathematics to sport science and medicine. We aim to combine our skills in interdisciplinary projects and then communicate our findings to both research communities.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  title="Launching Website"
-  text=text
-%}
 
 {% include float.html clear=true %}
