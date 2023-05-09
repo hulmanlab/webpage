@@ -19,3 +19,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 
 {% include list.html data="posts" component="post-excerpt" %}
+
+<aside>
+  <a class="twitter-timeline" href="https://twitter.com/adamhulman?ref_src=twsrc%5Etfw">Tweets by adamhulman</a>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</aside>
