@@ -33,6 +33,8 @@ Our group members represent a wide range of scientific profiles from data scienc
 {%
   include feature.html
   title="Events"
+  image=NaN
+  link=NaN
   text=text
 %}
 
