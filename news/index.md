@@ -22,8 +22,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   flip=true
 %}
 
-{% include tags.html tags=site.tags %}
-
 ## Event
 
 For the upcoming events, we have Talens club, for students who wants to colaborate with the laboratory, Journal club.....
