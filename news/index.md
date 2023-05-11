@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Our ambition is to share major announcements, results and events on this page. While the website development is still in progress, follow us on social media. 
+You can find links to our SoMe accounts on our personal profile pages under the [Team](https://hulmanlab.com/team/) tab.
 
 {% include section.html %}
 
@@ -22,13 +22,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   flip=true
 %}
 
-## Event
+## Upcoming events
 
-For the upcoming events, we have Talens club, for students who wants to colaborate with the laboratory, Journal club.....
-
-## Launching our website
-
-Our group members represent a wide range of scientific profiles from data science, mathematics to sport science and medicine. We aim to combine our skills in interdisciplinary projects and then communicate our findings to both research communities.
-
+### Steno AI Journal Club
+*Date, time:* May 23, 15-16
+*Location:* Skillerummet 1, Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)
+*Description:* The first article we will discuss is neither about machine learning, nor about artificial intelligence. 
+We will discuss the basic concepts of association and prediction which are often confused in diabetes research. 
+Just read the following [paper](https://pubmed.ncbi.nlm.nih.gov/33068662/) beforehand and gather your thoughts and questions:
+Association is not prediction: A landscape of confused reporting in diabetes - A systematic review by Tibor V. Varga et al.
+*Registration:* Registration is NOT needed. The event is open for anyone, not just for them affiliated with Steno Aarhus. 
 
 {% include float.html clear=true %}
