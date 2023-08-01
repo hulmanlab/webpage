@@ -2,7 +2,7 @@
 name: Yumeng Li
 aka: Livie
 image: images/yumeng-li.jpg
-description: PhD
+description: PhD Student
 role: yumengli
 aliases:
   - Y. Li
