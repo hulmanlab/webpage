@@ -2,7 +2,7 @@
 name: Benjamin Lebiecka_Johansen
 image: images/benjamin_johansen.jpg
 description: Postdoc
-role: BenjaminJohansen
+role: benjaminjohansen
 aliases:
   - BL. Johansen
 links:
