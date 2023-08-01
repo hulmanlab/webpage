@@ -34,7 +34,10 @@ manuelthomasen:
 andersisaksen:
   icon: fa-solid fa-stethoscope
   description: Postdoctoral Researcher
-  
+
+benjaminjohansen:
+  icon: fa-solid fa-gears
+
 # team member roles
 
 pi:
