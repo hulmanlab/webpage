@@ -1,7 +1,7 @@
 ---
 name: Helene Bei Thomsen
 image: images/helene-thomsen.jpg
-description: PhD
+description: PhD Student
 role: helenethomsen
 aliases:
   - HB. Thomsen
