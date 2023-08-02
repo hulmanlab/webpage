@@ -1,6 +1,6 @@
 ---
 name: Benjamin Lebiecka-Johansen
-image: images/benjamin_johansen.jpg
+image: images/benjamin-lebiecka-johansen.jpg
 description: Postdoc & Data scientist
 role: benjaminjohansen
 aliases:
