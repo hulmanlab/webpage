@@ -1,5 +1,5 @@
 ---
-name: Benjamin Lebiecka_Johansen
+name: Benjamin Lebiecka-Johansen
 image: images/benjamin_johansen.jpg
 description: Postdoc
 role: benjaminjohansen
