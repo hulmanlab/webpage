@@ -6,7 +6,7 @@ role: helenethomsen
 aliases:
   - HB. Thomsen
 links:
-  email: hbth23@ph.au.dk
+  email: hbt@ph.au.dk
   linkedin: helene-bei-thomsen
 
 ---
