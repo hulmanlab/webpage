@@ -24,6 +24,7 @@ You can find links to our SoMe accounts on our personal profile pages under the 
 
 ## Upcoming events
 ### Steno AI Journal Club
+**Date, time** Oct 9, 13-14
 
 **Location** Hjerterummet, Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)
 
