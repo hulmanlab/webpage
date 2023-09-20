@@ -24,13 +24,13 @@ You can find links to our SoMe accounts on our personal profile pages under the 
 
 ## Upcoming events
 ### Steno AI Journal Club
-**Date, time** Oct 9, 13-14
+**Date, time** Oct 9, 12-13
 
 **Location** Hjerterummet, Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)
 
-**Description** Paper: We will discuss the content of [this](https://www.bmj.com/content/371/bmj.m3919) article, which is about the consistency of machine learning and statistical models in predicting clinical risks of individual patients. This longitudinal cohort study using cardiovascular disease as an exemplar provides valuable insights into the performance of various prediction techniques.
+**Description** Paper: We will discuss the content of [this](https://www.bmj.com/content/371/bmj.m3919) article, which is about the consistency of machine learning and statistical models in predicting clinical risks of individual patients. 
 
-Stay tuned.
+Stay tuned for more.
 
 ## Past events
 ### Steno AI Journal Club
