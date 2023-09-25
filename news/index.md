@@ -22,32 +22,21 @@ You can find links to our SoMe accounts on our personal profile pages under the 
   flip=true
 %}
 
-## Upcoming events
-### Steno AI Journal Club
+## Machine Learning & Clinical Prediction (MLCP) Journal Club
+MLCP journal club, a monthly, interdisciplinary journal club for anyone interested in machine learning and/or clinical prediction.  We cover technical aspects, but the focus is ultimately on the practical, clinical use-cases of machine learning (e.g. for clinical prediction of cardiovascular disease), where we dissect pitfalls and limitations to cut through the hype.
+### Upcoming sessions
 **Date, time** Oct 9, 12-13
 
-**Location** Hjerterummet, Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)
+**Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)
 
-**Description** Paper: We will discuss the content of [this](https://www.bmj.com/content/371/bmj.m3919) article, which is about the consistency of machine learning and statistical models in predicting clinical risks of individual patients. 
+**Article** Li Y et al. *Consistency of variety of machine learning and statistical models in predicting clinical risks of individual patients: longitudinal cohort study using cardiovascular disease as exemplar* BMJ 2020;371:m3919 [link](https://www.bmj.com/content/371/bmj.m3919). 
 
-Stay tuned for more.
 
-## Past events
-### Steno AI Journal Club
-**Date, time** May 23, 15-16
+**Date, time** Nov 20, 12-13
 
-**Location** Skillerummet 1, Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)
+**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)
 
-**Description** The first article we will discuss is neither about machine learning, nor about artificial intelligence. 
-We will discuss the basic concepts of association and prediction which are often confused in diabetes research. 
-Just read the following [paper](https://pubmed.ncbi.nlm.nih.gov/33068662/) beforehand and gather your thoughts and questions:
-Association is not prediction: A landscape of confused reporting in diabetes - A systematic review by Tibor V. Varga et al.
+**Article** Varoquauxet G & Cheplygina V. *Machine learning for medical imaging: methodological failures and recommendations for the future* npj Digital Medicine 2022; 5:48 [link](https://www.nature.com/articles/s41746-022-00592-y).
 
-### Steno AI Art Cafe
-**Date, time** May 16, 15-16
-
-**Location** Krearummet, Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)
-
-**Description** We will meet for an informal workshop introducing participants to an AI tool called Midjourney. In Midjourney, users can generate images using text prompts describing their vision. After a short introduction to prompting and some of the features the program has, we will try Midjourney in smaller groups of 3-4 and create images around a theme relevant from a health perspective. At the end, we will share the generated images with each other and discuss how the experience of using AI was and how we could integrate such tools in our daily work.
  
 {% include float.html clear=true %}
