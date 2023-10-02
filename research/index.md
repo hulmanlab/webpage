@@ -6,6 +6,11 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
+---
+title: Strategic areas
+nav:
+  order: 1.1
+---
 ## Strategic areas
 ### Clinical prediction - using deep learning, where it matters
 We are mostly interested in how to integrate multimodal data (e.g. images, time series, text) in clinical risk prediction using deep learning methods in addition to commonly used variables (tabular data). In this process, we see a potential in reusing models developed in other datasets or even domains, to transfer knowledge representations between prediction tasks (e.g. using transfer learning to repurpose generic computer vision models for analysis of retina images).
