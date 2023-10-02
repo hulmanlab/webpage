@@ -17,7 +17,7 @@ The collection of clinical data is often cumbersome and expensive, while data sh
 Large language models make the power of AI accessible to a broader user group. We aim to leverage these technologies to quickly build and test prototypes among end users (e.g. in the clinic), before allocating more resources to develop complete and expensive solutions. Such case studies or proof-of-concepts can give us valuable insights about the needs and perception of AI in the clinic.
 ### The impact of AI on healthcare - end users matter
 By asking end users (patients, clinicians) about their perception of AI, e.g. hopes and fears, we aim to get valuable insights and inspiration for our work. We plan to do this by conducting large survey studies and arranging user involvement sessions.
-## Strategic areas
+## Publications
 ### Large Language Models for Epidemiological Research via Automated Machine Learning: Case Study Using Data From the British National Child Development Study
 Wibaek R, Andersen GS, Dahm CC, Witte DR, Hulman A
 JMIR Med Inform 2023;11:e43638 doi: 10.2196/43638 link
