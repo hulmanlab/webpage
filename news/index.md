@@ -11,16 +11,6 @@ Our ambition is to share major announcements, results and events on this page. W
 Also, you can find links to our SoMe accounts on our personal profile pages under the [Team](https://hulmanlab.com/team/) tab.
 {% include section.html %}
 
-{% capture content %}
-  <a class="twitter-timeline" data-width="350" href="https://twitter.com/adamhulman?ref_src=twsrc%5Etfw">Tweets by adamhulman</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{% endcapture %}
-
-{%
-  include float.html
-  content=content
-  flip=true
-%}
-
 ## Previous Newsletters
 [October, 2023](https://mailchi.mp/rm/frrdr0n5n5)
 
