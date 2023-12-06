@@ -33,35 +33,17 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Date, time** Dec 18, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Vistisen D et al. *Prediction of First Cardiovascular Disease Event in Type 1 Diabetes Mellitus* Circulation 2016; 133:1058–1066 [link](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.115.018844)
-<details align = "left">
-  <summary><b>Notes from the discussion</b></summary>  
-  Notes will be added after the event.
-</details>
-<br>
+
 
 ### Past sessions
 **Date, time** Nov 20, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Varoquauxet G & Cheplygina V. *Machine learning for medical imaging: methodological failures and recommendations for the future* npj Digital Medicine 2022; 5:48 [link](https://www.nature.com/articles/s41746-022-00592-y)
-<details align = "left">
-  <summary><b>Notes from the discussion</b></summary>  
-  Notes will be added after the event.
-</details>
-<br>
+
 
 **Date, time** Oct 9, 12-13  
 **Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Li Y et al. *Consistency of variety of machine learning and statistical models in predicting clinical risks of individual patients: longitudinal cohort study using cardiovascular disease as exemplar* BMJ 2020;371:m3919 [link](https://www.bmj.com/content/371/bmj.m3919) 
-
-<details align = "left">
-  <summary><b>Roadmap for discussion</b></summary>  
-  <a href="https://docs.google.com/document/d/1eBScQbF6F-YbHrgSylydmEF3CZyILUHCPV5PIfxIXpg/">Overall analysis template</a><br>
-  <b>Questions:</b><br>
-  Is it surprising that individual-level predictions from all 19 models are often not in unanimous agreement?<br>
-  Is there a clinical context, where individuals undergo several risk predictions for the same outcome using different prediction models?<br>
-  How can the consistency of individual predictions within the same model be evaluated?<br>
-  Is the statement still true today, that there is no machine learning method capable of handling dropout/censoring on large time-to-event datasets?
-</details>
 
  
 {% include float.html clear=true %}
