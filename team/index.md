@@ -12,7 +12,9 @@ Our lab shares the passion for data science and a thrive to make a difference fo
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="description: Postdoc" %}
+{% include list.html data="members" component="portrait" filters="description: PhD Student" %}
+{% include list.html data="members" component="portrait" filters="description: Research Assistant" %}
 
 Subscribe to our [newsletter](https://mailchi.mp/rm/hulman-lab-newsletter) to hear about job openings or contact [Adam](mailto:adahul@rm.dk) if you are interested in collaborating with us.
 
