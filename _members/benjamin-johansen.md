@@ -8,6 +8,7 @@ aliases:
 links:
   email: benleb@rm.dk
   github: benjaminjohansen
+  orcid: 0000-0002-6516-4757
   linkedin: johansenbenjamin
   twitter: Benjohresearch
 ---
