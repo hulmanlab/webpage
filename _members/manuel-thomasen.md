@@ -11,4 +11,12 @@ links:
   github: ManuThomasen
 ---
 
-Manuel has a background in sport science and is currently pursuing a masters degree in data science. He got involved in studies involving football analytics using wearable sensors during his studies, which sparked his interest in data science. He contributed to a few published articles on this topic. Manuel has a curious mindset and he is highly interested in doing research in the health domain. He will support the lab's work both via contributing to research projects and also with responsibilities in communication to the public.
+Manuel has a background in sport science and data science and has been involved in studies involving football analytics using optical tracing. In his PhD, he works on developing deep learning models for risk prediction of diabetes complication, such as cardiovascular disease, neuropathy and diabetes distress, based on voice and vocal biomarkers.
+
+Supervisor team
+
+Adam Hulman, Associate Professor & Senior Data Scientist, Steno Diabetes Center Aarhus
+Guy Fargherazzi, Director of Department of Precision Health, Deep Digital Phenotyping Research Unit
+Christian Stevns Hansen, post.doc researcher at Steno Diabetes Center Copenhagen
+
+The PhD project is funded by the Danish Data Science Academy and Danish Diabetes and Endocring Academy
