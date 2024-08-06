@@ -13,7 +13,7 @@ links:
 
 Manuel has a background in sport science and data science and has been involved in studies involving football analytics using optical tracing. In his PhD, he works on developing deep learning models for risk prediction of diabetes complication, such as cardiovascular disease, neuropathy and diabetes distress, based on voice and vocal biomarkers.
 
-Supervisor team
+Supervisor team:
 
 Adam Hulman, Associate Professor & Senior Data Scientist, Steno Diabetes Center Aarhus
 Guy Fargherazzi, Director of Department of Precision Health, Deep Digital Phenotyping Research Unit
