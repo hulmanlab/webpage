@@ -50,7 +50,6 @@ header a {
 }
 
 .title > *:last-child {
-  color: var(--gray);
   font-weight: var(--thin);
 }
 
