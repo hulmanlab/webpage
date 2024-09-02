@@ -6,6 +6,7 @@ role: manuelthomasen
 aliases:
   - MMD. Thomasen
 links:
+  email: manuth@ph.au.dk
   linkedin: manuel-thomasen
   orcid: 0000-0002-9379-4617
   github: ManuThomasen
