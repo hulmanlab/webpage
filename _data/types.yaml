@@ -58,6 +58,10 @@ lærkejohansson:
 ninaziegenbein:
   icon: fa-regular fa-brain-circuit
   description: Research Assistant
+
+martinhansen: 
+  icon:
+  description: Postdoc
 # team member roles
 
 pi:
