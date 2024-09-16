@@ -54,6 +54,10 @@ jonasschaarup:
 lærkejohansson:
   icon: fa-solid fa-hand-holding-heart
   description: Assistant
+
+ninaziegenbein:
+  icon: fa-regular fa-brain-circuit
+  description: Research Assistant
 # team member roles
 
 pi:
