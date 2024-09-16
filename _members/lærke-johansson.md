@@ -1,7 +1,7 @@
 ---
 name: Lærke Stenby Johansson
 image: images/lærke-johansson.jpg
-description: Assistant
+description: Student Assistant
 role: lærkejohansson
 aliases:
   - LS. Johansson
