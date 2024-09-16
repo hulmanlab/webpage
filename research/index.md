@@ -7,6 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 ## Latest publications in ML/AI
+### Prediction of Cardiovascular Markers and Diseases Using Retinal Fundus Images and Deep Learning: A Systematic Scoping Review
+**Li LY**, **Isaksen AA**, **Lebiecka-Johansen B**, Funck K, Thambawita V, Byberg S, Andersen TH, Norgaard O, **Hulman A**\
+*European Heart Journal - Digital Health* 2024;,ztae068 [10.1093/ehjdh/ztae068](https://doi.org/10.1093/ehjdh/ztae068)
 ### Large Language Models for Epidemiological Research via Automated Machine Learning: Case Study Using Data From the British National Child Development Study
 Wibaek R, Andersen GS, Dahm CC, Witte DR, **Hulman A**\
 *JMIR Med Inform* 2023;11:e43638 [10.2196/43638](https://medinform.jmir.org/2023/1/e43638)
