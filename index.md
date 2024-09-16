@@ -14,8 +14,8 @@ The Hulman Lab is an interdisciplinary researcher group in machine learning and 
 
 {% 
    include figure.html
-   image="images/Group_August.jpg"
-   caption="Adam, Benjamin, Livie, Anders, Helene, Manuel (left to right, August 2023)"
+   image="images/team_aug.jpg"
+   caption="Livie, Martin, Manuel, Adam, Anders, Benjamin, Nina, Lærke, Helene (left to right, August 2024)"
    width="80%" %}
 
 {% include section.html %}
