@@ -6,9 +6,12 @@ role: martinhansen
 aliases:
   - M. Hansen
 links:
-  email: ninzie@rm.dk
-  linkedin: https://www.linkedin.com/in/nina-ziegenbein/
-  github: https://github.com/NinaZiegenbein
+  email: maruha@rm.dk , martinrunehassanhansen@ph.au.dk
+  orcid: https://orcid.org/0000-0001-9681-2393
+  github: https://github.com/martinrunehassanhansen
+  aarhus university: https://pure.au.dk/portal/da/persons/martinrunehassanhansen%40ph.au.dk
+  research gate: https://www.researchgate.net/profile/Martin-Hansen-6
 ---
 
-Nina has a background in Intelligent Systems, focusing on applied machine learning, data science, and ethical AI. Her experience working on projects that bridged computer science, medicine, and psychology sparked her passion for interdisciplinary research in healthcare. As a pre-phd student, her work centers on understanding the complex interplay between metabolism and cardiovascular risk in type 2 diabetes. She processes multimodal data from sources such as the whole-room indirect calorimeter, wearable sensors, ECG, and continuous glucose monitors to identify metabolic phenotypes and develop methods for improving cardiovascular risk prediction.
+Martin is a medical doctor with a research background in public health. During his PhD at Aarhus University, he studied environmental risk factors for non-communicable diseases (including diabetes) in low- and middle-income countries. He has experience conducting both epidemiological surveys and register research.
+Martin works part-time as a clinician at the Department of Infectious Diseases at Aarhus University Hospital, and part-time as a researcher at Steno Diabetes Center, where he is developing a clinical risk score for the prediction of prevalent diabetes among African adults. He has a passion for global health and health equity, and will combine machine learning methods with his experience living and working in low-income countries (Bolivia and Uganda) to ensure that the tool developed is usable in real-world settings.
