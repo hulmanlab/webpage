@@ -1,6 +1,6 @@
 ---
 name: Nina Ziegenbein
-image: images/lærke-johansson.jpg
+image: images/nina-ziegenbein.jpg
 description: Research Assistant
 role: ninaziegenbein
 aliases:
