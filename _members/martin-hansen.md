@@ -1,6 +1,6 @@
 ---
 name: Martin Hansen
-image: images/lærke-johansson.jpg
+image: images/martin-hansen.jpg
 description: Postdoc
 role: martinhansen
 aliases:
