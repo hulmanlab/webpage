@@ -53,7 +53,15 @@ jonasschaarup:
 
 lærkejohansson:
   icon: fa-solid fa-hand-holding-heart
-  description: Assistant
+  description: Student Assistant
+
+ninaziegenbein:
+  icon: fa-solid fa-network-wired
+  description: Research Assistant
+
+martinhansen: 
+  icon: fa-solid fa-stethoscope
+  description: Postdoctoral Researcher
 # team member roles
 
 pi:
