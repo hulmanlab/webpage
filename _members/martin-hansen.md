@@ -7,8 +7,8 @@ aliases:
   - M. Hansen
 links:
   email: maruha@rm.dk , martinrunehassanhansen@ph.au.dk
-  orcid: https://orcid.org/0000-0001-9681-2393
-  github: https://github.com/martinrunehassanhansen
+  orcid: 0000-0001-9681-2393
+  github: martinrunehassanhansen
   aarhus university: https://pure.au.dk/portal/da/persons/martinrunehassanhansen%40ph.au.dk
   research gate: https://www.researchgate.net/profile/Martin-Hansen-6
 ---
