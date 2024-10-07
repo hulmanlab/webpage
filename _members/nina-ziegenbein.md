@@ -7,7 +7,7 @@ aliases:
   - N. Ziegenbein
 links:
   email: ninzie@rm.dk
-  linkedin: https://www.linkedin.com/in/nina-ziegenbein/
+  linkedin: nina-ziegenbein
   github: https://github.com/NinaZiegenbein
 ---
 
