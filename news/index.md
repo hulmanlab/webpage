@@ -25,13 +25,9 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **2024 Fall Plan**
 
-**Date, time** Sep 23, 12-13  
-**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Jiang et al. *Health system-scale language models are all-purpose prediction engines*, Nature. [link](https://www.nature.com/articles/s41586-023-06160-y)
-
 **Date, time** Oct 28, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Zhou et al. *A foundation model for generalizable disease detection from retinal images*, Nature. [link](https://www.nature.com/articles/s41586-023-06555-x)
+**Article** Maris et al. *Ethical use of artificial intelligence to prevent sudden cardiac death: an interview study of patient perspectives*, BMC Medical Ethics. [link](https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-024-01042-y)
 
 **Date, time** Nov 25, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
@@ -39,10 +35,13 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Date, time** Dec 16, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Hicks et al. *Explaining deep neural networks for knowledge discovery in electrocardiogram analysis*, Nature Scientific Reports. [link](https://www.nature.com/articles/s41598-021-90285-5)  
-**vs.** Storås et al. *Usefulness of Heat Map Explanations for Deep-Learning-Based Electrocardiogram Analysis*, MDPI. [link](https://www.mdpi.com/2075-4418/13/14/2345)
+**Article** Zhou et al. *A foundation model for generalizable disease detection from retinal images*, Nature. [link](https://www.nature.com/articles/s41586-023-06555-x)
 
 ### Past sessions
+
+**Date, time** Sep 23, 12-13  
+**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** Jiang et al. *Health system-scale language models are all-purpose prediction engines*, Nature. [link](https://www.nature.com/articles/s41586-023-06160-y)
 
 **Date, time** Aug 26, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
