@@ -21,12 +21,3 @@ Subscribe to our [newsletter](https://mailchi.mp/rm/hulman-lab-newsletter) to he
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-users" %}Talent Network
-
-Doing a PhD or a research year require a significant committment. Therefore, we offer students, who are interested in working with us, an opportunity to get connected to our group via scientific, social and networking activities, and hope that these experiences will lead to more informed decisions about their career paths and eventually to fruitful collaborations with our group. 
-
-{% 
-   include figure.html
-   image="images/talent_network.jpg"
-   caption="Talent Network Kick-off Meeting (May 2023)"
-   width="100%" %}
