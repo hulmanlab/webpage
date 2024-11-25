@@ -27,15 +27,15 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **2024 Fall Plan**
 
-**Date, time** Nov 25, 12-13  
-**Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Groh et al. *Deep learning-aided decision support for diagnosis of skin disease across skin tones*, Nature Medicine. [link](https://www.nature.com/articles/s41591-023-02728-3)
-
 **Date, time** Dec 16, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Zhou et al. *A foundation model for generalizable disease detection from retinal images*, Nature. [link](https://www.nature.com/articles/s41586-023-06555-x)
 
 ### Past sessions
+
+**Date, time** Nov 25, 12-13  
+**Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** Groh et al. *Deep learning-aided decision support for diagnosis of skin disease across skin tones*, Nature Medicine. [link](https://www.nature.com/articles/s41591-023-02728-3)
 
 **Date, time** Oct 28, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
