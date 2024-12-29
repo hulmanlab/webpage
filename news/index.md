@@ -25,12 +25,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 ### Upcoming sessions
 
-**2024 Fall Plan**
-
-**Date, time** Dec 16, 12-13  
-**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Zhou et al. *A foundation model for generalizable disease detection from retinal images*, Nature. [link](https://www.nature.com/articles/s41586-023-06555-x)
-
 **2025 Spring Plan**
 
 **Date, time** Jan 27, 12-13  
@@ -58,6 +52,10 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Article** Wildcard // To be decided. Stay tuned...
 
 ### Past sessions
+
+**Date, time** Dec 16, 12-13  
+**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** Zhou et al. *A foundation model for generalizable disease detection from retinal images*, Nature. [link](https://www.nature.com/articles/s41586-023-06555-x)
 
 **Date, time** Nov 25, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
