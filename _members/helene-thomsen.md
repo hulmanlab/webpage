@@ -15,7 +15,7 @@ During her studies at Aalborg University, Helene developed a passion for program
 In her PhD, she works on developing deep learning models for cardiovascular risk assesments in individuals with diabetes using continuous glucose monitoring data. By using transfer learning between studies, she aims to transfer knowledge between epidemiological and clinical cohorts, and to improve algorithmic fairness. Additionally, her research includes developing a prediction model for blood glucose spikes in order to tailor diet recommendations and assist risk assessments of cardiovascular disease in people with type 2 diabetes. 
 
 Supervisor team
-- [Adam Hulman](https://hulmanlab.com/members/adam-hulman.html), Associate Professor & Senior Data Scientist, Steno Diabetes Center Aarhus
+- [Adam Hulman](https://hulmanlab.org/members/adam-hulman.html), Associate Professor & Senior Data Scientist, Steno Diabetes Center Aarhus
 - [Coen Stehouwer](https://www.carimmaastricht.nl/about/people/coen_stehouwer), Professor, Maastricht University Medical Center
 
 *The PhD project is funded by the Novo Nordisk Foundation and the cross-academy scholarship by the Danish Diabetes & Endocrine Academy and the Danish Cardiovascular Academy.*
