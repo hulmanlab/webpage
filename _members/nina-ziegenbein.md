@@ -6,7 +6,7 @@ role: ninaziegenbein
 aliases:
   - N. Ziegenbein
 links:
-  email: ninzie@rm.dk
+  email: ninzie@rm.dk, ninaz@ph.au.dk
   linkedin: nina-ziegenbein
   github: NinaZiegenbein
 ---
