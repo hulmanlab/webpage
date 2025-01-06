@@ -246,9 +246,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: 10.1155/2022/6822385
-  title: 'The Faroe Islands COVID-19 Recreational Football Study: Player-to-Player
-    Distance, Body-to-Body Contact, Body-to-Ball Contact and Exercise Intensity during
-    Various Types of Football Training for Both Genders and Various Age Groups'
+  title: "The Faroe Islands COVID\u201019 Recreational Football Study: Player\u2010\
+    to\u2010Player Distance, Body\u2010to\u2010Body Contact, Body\u2010to\u2010Ball\
+    \ Contact and Exercise Intensity during Various Types of Football Training for\
+    \ Both Genders and Various Age Groups"
   authors:
   - Magni Mohr
   - "T\xF3rur Sj\xFAr\xF0arson"
@@ -261,7 +262,7 @@
   - Thomas Bull Andersen
   - Peter Krustrup
   publisher: BioMed Research International
-  date: '2022-03-17'
+  date: '2022-01-01'
   link: https://doi.org/gr4vqq
   plugin: sources.py
   file: sources.yaml
