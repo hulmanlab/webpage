@@ -12,7 +12,7 @@ nav:
 *medRxiv* 2025; [10.1101/2025.01.23.25321048](https://doi.org/10.1101/2025.01.23.25321048)
 ### In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review
 Jiménez-Sanchez A, Avlona N-R, de Boer S, Campello VM, Feragen A, Ferrante E, Ganz M, Gichoya JW, Gonzalez C, Groefsema S,
-Hering A, **Hulman, A**, et al.\
+Hering A, **Hulman, A**, et al.
 *arXiv* 2025; [arXiv:25.01.10727](https://doi.org/10.48550/arXiv.2501.10727)
 ### Racial disparities in continuous glucose monitoring-based 60-min glucose predictions among people with type 1 diabetes
 **Thomsen HB**, **Li LY**, **Isaksen AA**, **Lebiecka-Johansen B**, Bour C, Fagherazzi G, van Doorn WPTM, Varga TV, **Hulman A**\
