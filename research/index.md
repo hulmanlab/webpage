@@ -7,6 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 ## Latest publications in ML/AI
+### Exposure to ChatGPT and its impact on the general public’s perception of AI in healthcare
+**Isaksen AA**, **Schaarup JFR**, Bjerg L, **Hulman A**\
+*medRxiv* 2025; [10.1101/2025.01.23.25321048](https://doi.org/10.1101/2025.01.23.25321048)
+### In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review
+Jiménez-Sanchez A, Avlona N-R, de Boer S, Campello VM, Feragen A, Ferrante E, Ganz M, Gichoya JW, Gonzalez C, Groefsema S, Hering A, **Hulman, A**, et al.\
+*arXiv* 2025; [arXiv:25.01.10727](https://doi.org/10.48550/arXiv.2501.10727)
+### Racial disparities in continuous glucose monitoring-based 60-min glucose predictions among people with type 1 diabetes
+**Thomsen HB**, **Li LY**, **Isaksen AA**, **Lebiecka-Johansen B**, Bour C, Fagherazzi G, van Doorn WPTM, Varga TV, **Hulman A**\
+*medRxiv* 2024; [10.1101/2024.12.19.24319325](https://doi.org/10.1101/2024.12.19.24319325)
+### A health researcher’s gentle introduction to quantum computing
+**Hulman A**\
+*OSF Preprints* 2024; [10.31219/osf.io/7tcjk](https://doi.org/10.31219/osf.io/7tcjk)
 ### Prediction of Cardiovascular Markers and Diseases Using Retinal Fundus Images and Deep Learning: A Systematic Scoping Review
 **Li LY**, **Isaksen AA**, **Lebiecka-Johansen B**, Funck K, Thambawita V, Byberg S, Andersen TH, Norgaard O, **Hulman A**\
 *European Heart Journal - Digital Health* 2024;,ztae068 [10.1093/ehjdh/ztae068](https://doi.org/10.1093/ehjdh/ztae068)
