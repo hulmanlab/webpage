@@ -27,10 +27,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **2025 Spring Plan**
 
-**Date, time** Jan 27, 12-13  
-**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Helmink et al. *Lifetime and 10-year cardiovascular risk prediction in individuals with type 1 diabetes: The LIFE-T1D model*, Diabetes, Obesity & Metabolism. [link](https://doi.org/10.1111/dom.15531)
-
 **Date, time** Feb 24, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Kim et al. *Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data*, arXiv. [link](https://doi.org/10.48550/arXiv.2401.06866)
@@ -52,6 +48,10 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Article** Wildcard // To be decided. Stay tuned...
 
 ### Past sessions
+
+**Date, time** Jan 27, 12-13  
+**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** Helmink et al. *Lifetime and 10-year cardiovascular risk prediction in individuals with type 1 diabetes: The LIFE-T1D model*, Diabetes, Obesity & Metabolism. [link](https://doi.org/10.1111/dom.15531)
 
 **Date, time** Dec 16, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
