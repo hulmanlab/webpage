@@ -45,6 +45,9 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 ### Past sessions
 
+<details>
+<summary>Past sessions</summary>
+
 **Date, time** Feb 24, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Kim et al. *Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data*, arXiv. [link](https://doi.org/10.48550/arXiv.2401.06866)
@@ -109,6 +112,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Date, time** Oct 9, 12-13  
 **Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Li Y et al. *Consistency of variety of machine learning and statistical models in predicting clinical risks of individual patients: longitudinal cohort study using cardiovascular disease as exemplar* BMJ 2020;371:m3919 [link](https://www.bmj.com/content/371/bmj.m3919) 
-
+</details>
  
 {% include float.html clear=true %}
