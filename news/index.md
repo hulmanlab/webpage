@@ -113,5 +113,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Li Y et al. *Consistency of variety of machine learning and statistical models in predicting clinical risks of individual patients: longitudinal cohort study using cardiovascular disease as exemplar* BMJ 2020;371:m3919 [link](https://www.bmj.com/content/371/bmj.m3919) 
 </details>
+
+The program for the next five to six months is unveiled around the end of each semester. Feel free to [suggest topics or papers](mailto:andaas@rm.dk) you would like to see a session on.
  
 {% include float.html clear=true %}
