@@ -27,10 +27,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **2025 Spring Plan**
 
-**Date, time** Mar 24, 12-13  
-**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Kapoor & Narayanan. *Leakage and the reproducibility crisis in machine-learning-based science*, Patterns. [link](https://doi.org/10.1016/j.patter.2023.100804)
-
 **Date, time** May 5, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Carrasco-Zanini et al. *Multi-omic prediction of incident type 2 diabetes*, Diabetologia. [link](https://doi.org/10.1007/s00125-023-06027-x)
@@ -47,6 +43,10 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 <details>
 <summary>Past sessions</summary>
+
+**Date, time** Mar 24, 12-13  
+**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** Kapoor & Narayanan. *Leakage and the reproducibility crisis in machine-learning-based science*, Patterns. [link](https://doi.org/10.1016/j.patter.2023.100804)
 
 **Date, time** Feb 24, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
