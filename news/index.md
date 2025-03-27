@@ -44,9 +44,9 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 <details>
 <summary>Past sessions</summary>
 
-**Date, time** Mar 24, 12-13  
-**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Kapoor & Narayanan. *Leakage and the reproducibility crisis in machine-learning-based science*, Patterns. [link](https://doi.org/10.1016/j.patter.2023.100804)
+<p><strong>Date, time</strong> Mar 24, 12-13<br>  
+<strong>Location</strong> Mellemrummet (A201-247), Steno Diabetes Center Aarhus (<a href="https://hulmanlab.com/contact/">Contact page</a>)<br>  
+<strong>Article</strong> Kapoor & Narayanan. <em>Leakage and the reproducibility crisis in machine-learning-based science</em>, Patterns. <a href="https://doi.org/10.1016/j.patter.2023.100804">[link]</a></p>
 
 **Date, time** Feb 24, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
@@ -112,7 +112,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Date, time** Oct 9, 12-13  
 **Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Li Y et al. *Consistency of variety of machine learning and statistical models in predicting clinical risks of individual patients: longitudinal cohort study using cardiovascular disease as exemplar* BMJ 2020;371:m3919 [link](https://www.bmj.com/content/371/bmj.m3919) 
-
 </details>
 
 The program for the next five to six months is unveiled around the end of each semester. Feel free to [suggest topics or papers](mailto:andaas@rm.dk) you would like to see a session on.
