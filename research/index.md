@@ -9,7 +9,7 @@ nav:
 ## Latest publications in ML/AI
 ### Trust in large language model-based solutions in healthcare among people with and without diabetes: a cross-sectional survey from the Health in Central Denmark cohort
 **Schaarup JFR**, **Isaksen AA**, Norman K, Bjerg L, **Hulman A**\
-*medRxiv* 2025; [10.1101/2025.02.24.25322734] (https://doi.org/10.1101/2025.02.24.25322734)
+*medRxiv* 2025; [10.1101/2025.02.24.25322734](https://doi.org/10.1101/2025.02.24.25322734)
 ### Exposure to ChatGPT and its impact on the general public’s perception of AI in healthcare
 **Isaksen AA**, **Schaarup JFR**, Bjerg L, **Hulman A**\
 *medRxiv* 2025; [10.1101/2025.01.23.25321048](https://doi.org/10.1101/2025.01.23.25321048)
