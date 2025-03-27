@@ -39,8 +39,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Wildcard // To be decided. Stay tuned...
 
-### Past sessions
-
 <details style="margin-left: 20px;">
 <summary><h3>Past sessions</h3></summary>
 
