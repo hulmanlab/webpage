@@ -43,6 +43,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 <details style="text-align: left;">
 <summary>See past sessions</summary>
 <br><br>
+  
 <b>Date, time:</b> Mar 24, 12-13  <br>
 <b>Location:</b> Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see <a href="https://hulmanlab.com/contact/">Contact</a> page)  <br>
 <b>Article:</b> Kapoor & Narayanan. <i>Leakage and the reproducibility crisis in machine-learning-based science</i>, Patterns. <a href="https://doi.org/10.1016/j.patter.2023.100804">Link</a>
