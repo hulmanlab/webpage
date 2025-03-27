@@ -39,8 +39,10 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Wildcard // To be decided. Stay tuned...
 
-<details style="margin-left: 20px;">
-<summary><h3>Past sessions</h3></summary>
+### Past Sessions
+<details>
+<summary>See past sessions</summary>
+<div style="margin-left: 20px;">
 
 <b>Date, time:</b> Mar 24, 12-13  <br>
 <b>Location:</b> Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see <a href="https://hulmanlab.com/contact/">Contact</a> page)  <br>
@@ -81,7 +83,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 <b>Date, time:</b> May 27, 12-13  <br>
 <b>Location:</b> Krearummet (A301-100), Steno Diabetes Center Aarhus (see <a href="https://hulmanlab.com/contact/">Contact</a> page)  <br>
 <b>Article:</b> Tang et al. <i>Evaluating large language models on medical evidence summarization</i>, npj Digital Medicine. <a href="https://www.nature.com/articles/s41746-023-00896-7">Link</a>
-
+</div>
 </details>
 
 The program for the next five to six months is unveiled around the end of each semester. Feel free to [suggest topics or papers](mailto:andaas@rm.dk) you would like to see a session on.
