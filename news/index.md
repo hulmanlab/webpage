@@ -41,8 +41,8 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 ### Past sessions
 
-<details>
-<summary>Past sessions</summary>
+<details style="margin-left: 20px;">
+<summary><h3>Past sessions</h3></summary>
 
 <b>Date, time:</b> Mar 24, 12-13  <br>
 <b>Location:</b> Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see <a href="https://hulmanlab.com/contact/">Contact</a> page)  <br>
