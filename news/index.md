@@ -27,17 +27,17 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **2025 Spring Plan**
 
-**Date, time** May 26, 12-13  
-**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Kaufman et al. *Linear effects of glucose levels on voice fundamental frequency in type 2 diabetes and individuals with normoglycemia*, Scientific Reports. [link](https://doi.org/10.1038/s41598-024-69620-z)
-
 **Date, time** Jun 16, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Wildcard // To be decided. Stay tuned...
+**Article** Riley et al. *Minimum sample size for developing a multivariable prediction model: PART II - binary and time-to-event outcomes*, Statistics in Medicine. [link](https://doi.org/10.1002/sim.7992)
 
 ### Past Sessions
 <details style="text-align: left;">
 <summary>See past sessions</summary>
+<br><br>
+
+<b>Date, time:</b> May 26, 12-13    <br>
+<b>Article:</b>  Kaufman et al. <i>Linear effects of glucose levels on voice fundamental frequency in type 2 diabetes and individuals with normoglycemia</i>, Scientific Reports. <a href="https://doi.org/10.1038/s41598-024-69620-z">Link</a>
 <br><br>
 
 <b>Date, time:</b> May 5, 12-13    <br>
