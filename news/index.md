@@ -31,6 +31,28 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Riley et al. *Minimum sample size for developing a multivariable prediction model: PART II - binary and time-to-event outcomes*, Statistics in Medicine. [link](https://doi.org/10.1002/sim.7992)
 
+**2025 Fall Plan**
+
+**Date, time** Aug 25, 12-13  
+**Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
+**Date, time** Sep 22, 12-13  
+**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
+**Date, time** Oct 20, 12-13  
+**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
+**Date, time** Nov 17, 12-13  
+**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
+**Date, time** Dec 15, 12-13  
+**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
 ### Past Sessions
 <details style="text-align: left;">
 <summary>See past sessions</summary>
