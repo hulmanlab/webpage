@@ -25,12 +25,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 ### Upcoming sessions
 
-**2025 Spring Plan**
-
-**Date, time** Jun 16, 12-13  
-**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Riley et al. *Minimum sample size for developing a multivariable prediction model: PART II - binary and time-to-event outcomes*, Statistics in Medicine. [link](https://doi.org/10.1002/sim.7992)
-
 **2025 Fall Plan**
 
 **Date, time** Aug 25, 12-13  
@@ -58,51 +52,59 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 <summary>See past sessions</summary>
 <br><br>
 
-<b>Date, time:</b> May 26, 12-13    <br>
+<b>2025:</b><br><br>
+
+<b>Date, time:</b> Jun 16    <br>
+<b>Article:</b>  Riley et al.  <i>Minimum sample size for developing a multivariable prediction model: PART II - binary and time-to-event outcomes</i>, Statistics in Medicine. <a href="[https://doi.org/10.1038/s41598-024-69620-z](https://doi.org/10.1002/sim.7992)">Link</a>
+<br><br>
+
+<b>Date, time:</b> May 26    <br>
 <b>Article:</b>  Kaufman et al. <i>Linear effects of glucose levels on voice fundamental frequency in type 2 diabetes and individuals with normoglycemia</i>, Scientific Reports. <a href="https://doi.org/10.1038/s41598-024-69620-z">Link</a>
 <br><br>
 
-<b>Date, time:</b> May 5, 12-13    <br>
+<b>Date, time:</b> May 5    <br>
 <b>Article:</b>  Carrasco-Zanini et al. <i>Multi-omic prediction of incident type 2 diabetes</i>, Diabetologia. <a href="https://doi.org/10.1007/s00125-023-06027-x">Link</a>
 <br><br>
 
-<b>Date, time:</b> Mar 24, 12-13  <br>
+<b>Date, time:</b> Mar 24 <br>
 <b>Article:</b> Kapoor & Narayanan. <i>Leakage and the reproducibility crisis in machine-learning-based science</i>, Patterns. <a href="https://doi.org/10.1016/j.patter.2023.100804">Link</a>
 <br><br>
 
-<b>Date, time:</b> Feb 24, 12-13  <br>
+<b>Date, time:</b> Feb 24  <br>
 <b>Article:</b> Kim et al. <i>Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data</i>, arXiv. <a href="https://doi.org/10.48550/arXiv.2401.06866">Link</a>
 <br><br>
 
-<b>Date, time:</b> Jan 27, 12-13  <br>
+<b>Date, time:</b> Jan 27  <br>
 <b>Article:</b> Helmink et al. <i>Lifetime and 10-year cardiovascular risk prediction in individuals with type 1 diabetes: The LIFE-T1D model</i>, Diabetes, Obesity & Metabolism. <a href="https://doi.org/10.1111/dom.15531">Link</a>
 <br><br>
 
-<b>Date, time:</b> Dec 16, 12-13  <br>
+<b>2024:</b><br><br>
+
+<b>Date, time:</b> Dec 16  <br>
 <b>Article:</b> Zhou et al. <i>A foundation model for generalizable disease detection from retinal images</i>, Nature. <a href="https://www.nature.com/articles/s41586-023-06555-x">Link</a>
 <br><br>
 
-<b>Date, time:</b> Nov 25, 12-13  <br>
+<b>Date, time:</b> Nov 25  <br>
 <b>Article:</b> Groh et al. <i>Deep learning-aided decision support for diagnosis of skin disease across skin tones</i>, Nature Medicine. <a href="https://www.nature.com/articles/s41591-023-02728-3">Link</a>
 <br><br>
 
-<b>Date, time:</b> Oct 28, 12-13  <br>
+<b>Date, time:</b> Oct 28 <br>
 <b>Article:</b> Maris et al. <i>Ethical use of artificial intelligence to prevent sudden cardiac death: an interview study of patient perspectives</i>, BMC Medical Ethics. <a href="https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-024-01042-y">Link</a>
 <br><br>
 
-<b>Date, time:</b> Sep 23, 12-13  <br>
+<b>Date, time:</b> Sep 23 <br>
 <b>Article:</b> Jiang et al. <i>Health system-scale language models are all-purpose prediction engines</i>, Nature. <a href="https://www.nature.com/articles/s41586-023-06160-y">Link</a>
 <br><br>
 
-<b>Date, time:</b> Aug 26, 12-13  <br>
+<b>Date, time:</b> Aug 26  <br>
 <b>Article:</b> Hughes et al. <i>A deep learning-based electrocardiogram risk score for long term cardiovascular death and disease</i>, npj Digital Medicine. <a href="https://www.nature.com/articles/s41746-023-00916-6">Link</a>
 <br><br>
 
-<b>Date, time:</b> Jun 24, 12-13  <br>
+<b>Date, time:</b> Jun 24  <br>
 <b>Article:</b> Deng et al. <i>Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients</i>, npj Digital Medicine. <a href="https://www.nature.com/articles/s41746-021-00480-x">Link</a>
 <br><br>
 
-<b>Date, time:</b> May 27, 12-13  <br>
+<b>Date, time:</b> May 27  <br>
 <b>Article:</b> Tang et al. <i>Evaluating large language models on medical evidence summarization</i>, npj Digital Medicine. <a href="https://www.nature.com/articles/s41746-023-00896-7">Link</a>
 <br><br>
 </details>
