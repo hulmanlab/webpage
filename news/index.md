@@ -32,15 +32,15 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Article** TBA
 
 **Date, time** Sep 22, 12-13  
-**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** TBA
 
 **Date, time** Oct 20, 12-13  
-**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** TBA
 
 **Date, time** Nov 17, 12-13  
-**Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** TBA
 
 **Date, time** Dec 15, 12-13  
