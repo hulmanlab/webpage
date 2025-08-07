@@ -29,23 +29,23 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Date, time** Aug 25, 12-13  
 **Location** Hjerterummet (A201-248), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA
+**Article** Ding et al. *Large language multimodal models for new-onset type 2 diabetes prediction using five-year cohort electronic health records*, Scientific Reports. [Link](https://www.nature.com/articles/s41598-024-71020-2)
 
 **Date, time** Sep 22, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA
+**Article** TBA shortly
 
 **Date, time** Oct 20, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA
+**Article** TBA shortly
 
 **Date, time** Nov 17, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA
+**Article** TBA shortly
 
 **Date, time** Dec 15, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA
+**Article** TBA shortly
 
 ### Past Sessions
 <details style="text-align: left;">
