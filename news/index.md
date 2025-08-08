@@ -33,19 +33,19 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Date, time** Sep 22, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA shortly
+**Article** Xu, Narayanswamy et al. *LSM-2: Learning from Incomplete Wearable Sensor Data*, Google Research. [Link](https://arxiv.org/pdf/2506.05321)
 
 **Date, time** Oct 20, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA shortly
+**Article** Dennis et al. *A five-drug class model using routinely available clinical features to optimise prescribing in type 2 diabetes: a prediction model development and validation study*, The Lancet. [Link](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)02617-5/fulltext)
 
 **Date, time** Nov 17, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA shortly
+**Article** Prinder et al. *The importance of interpreting machine learning models for blood glucose prediction in diabetes: an analysis using SHAP*, Scientific Reports. [Link](https://doi.org/10.1038/s41598-023-44155-x)
 
 **Date, time** Dec 15, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA shortly
+**Article** TBA
 
 ### Past Sessions
 <details style="text-align: left;">
@@ -107,6 +107,40 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 <b>Date, time:</b> May 27  <br>
 <b>Article:</b> Tang et al. <i>Evaluating large language models on medical evidence summarization</i>, npj Digital Medicine. <a href="https://www.nature.com/articles/s41746-023-00896-7">Link</a>
 <br><br>
+
+
+<b>Date, time:</b> Apr 15  <br>
+<b>Article:</b> Collins et al. <i>Evaluation of clinical prediction models (part 1): from development to external validation</i>, BMJ. <a href="https://doi.org/10.1136/bmj-2023-074819">Link</a>
+<br><br>
+
+
+<b>Date, time:</b> Mar 18  <br>
+<b>Article:</b> Kaufman et al. <i>Acoustic Analysis and Prediction of Type 2 Diabetes Mellitus Using Smartphone-Recorded Voice Segments.</i>, MAYO CLINIC PROCEEDINGS: DIGITAL HEALTH. <a href="https://www.mcpdigitalhealth.org/action/showPdf?pii=S2949-7612%2823%2900073-1">Link</a>
+<br><br>
+
+
+<b>Date, time:</b> Feb 26  <br>
+<b>Article:</b> Lee et al. <i>Multimodal deep learning of fundus abnormalities and traditional risk factors for cardiovascular risk prediction</i>, npj Digital Medicine. <a href="https://doi.org/10.1038/s41746-023-00748-4">Link</a>
+<br><br>
+
+<b>Date, time:</b> Jan 22  <br>
+<b>Article:</b> Placido et al. <i>A deep learning algorithm to predict risk of pancreatic cancer from disease trajectories</i>, Nature Medicine. <a href="https://doi.org/10.1038/s41591-023-02332-5">Link</a>
+<br><br>
+
+<b>2023:</b><br><br>
+
+<b>Date, time:</b> Dec 18  <br>
+<b>Article:</b> Vistisen et al. <i>Prediction of First Cardiovascular Disease Event in Type 1 Diabetes Mellitus: The Steno Type 1 Risk Engine</i>, Circulation. <a href="https://doi.org/10.1161/CIRCULATIONAHA.115.018844">Link</a>
+<br><br>
+
+<b>Date, time:</b> Nov 20  <br>
+<b>Article:</b> Vistisen et al. <i>Machine learning for medical imaging: methodological failures and recommendations for the future</i>, npj Digital Medicine. <a href="https://www.nature.com/articles/s41746-022-00592-y">Link</a>
+<br><br>
+
+<b>Date, time:</b> Oct 9  <br>
+<b>Article:</b> Li et al. <i>Consistency of variety of machine learning and statistical models in predicting clinical risks of individual patients: longitudinal cohort study using cardiovascular disease as exemplar</i>, BMJ. <a href="https://doi.org/10.1136/bmj.m3919">Link</a>
+<br><br>
+
 </details>
 
 The program for the next five to six months is unveiled around the end of each semester. Feel free to [suggest topics or papers](mailto:andaas@rm.dk) you would like to see a session on.
