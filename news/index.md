@@ -27,10 +27,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **2025 Fall Plan**
 
-**Date, time** Sep 1, 12-13 **UPDATED DATE AND LOCATION: MOVED FROM AUG 25**  
-**Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Ding et al. *Large language multimodal models for new-onset type 2 diabetes prediction using five-year cohort electronic health records*, Scientific Reports. [Link](https://www.nature.com/articles/s41598-024-71020-2)
-
 **Date, time** Sep 22, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Xu, Narayanswamy et al. *LSM-2: Learning from Incomplete Wearable Sensor Data*, Google Research. [Link](https://arxiv.org/pdf/2506.05321)
@@ -54,8 +50,12 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 <b>2025:</b><br><br>
 
+<b>Date, time:</b> Sep 1    <br>
+<b>Article:</b>  Ding et al.  <i>Large language multimodal models for new-onset type 2 diabetes prediction using five-year cohort electronic health records</i>, Scientific Reports. <a href="https://www.nature.com/articles/s41598-024-71020-2">Link</a>
+<br><br>
+
 <b>Date, time:</b> Jun 16    <br>
-<b>Article:</b>  Riley et al.  <i>Minimum sample size for developing a multivariable prediction model: PART II - binary and time-to-event outcomes</i>, Statistics in Medicine. <a href="[https://doi.org/10.1038/s41598-024-69620-z](https://doi.org/10.1002/sim.7992)">Link</a>
+<b>Article:</b>  Riley et al.  <i>Minimum sample size for developing a multivariable prediction model: PART II - binary and time-to-event outcomes</i>, Statistics in Medicine. <a href="https://doi.org/10.1002/sim.7992">Link</a>
 <br><br>
 
 <b>Date, time:</b> May 26    <br>
