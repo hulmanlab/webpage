@@ -15,7 +15,7 @@ Subscribe to our [newsletter](https://mailchi.mp/rm/hulman-lab-newsletter) to ge
   include button.html
   type="email"
   text="adahul@rm.dk"
-  tooltip="E-mail address - Adam H"
+  tooltip="E-mail - adahul@rm.dk"
   link="adahul@rm.dk"
 %}
 {%
@@ -35,7 +35,7 @@ Subscribe to our [newsletter](https://mailchi.mp/rm/hulman-lab-newsletter) to ge
   include button.html
   type="newsletter"
   text="Subscribe to our Newsletter"
-  tooltip="Subscribe to our Newsletter"
+  tooltip="Newsletter - Subscribe to our Newsletter"
   link="https://mailchi.mp/rm/hulman-lab-newsletter"
 %}
 
