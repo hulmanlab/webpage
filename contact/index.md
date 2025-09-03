@@ -15,24 +15,27 @@ Subscribe to our [newsletter](https://mailchi.mp/rm/hulman-lab-newsletter) to ge
   include button.html
   type="email"
   text="adahul@rm.dk"
+  tooltip="E-mail address - Adam H"
   link="adahul@rm.dk"
 %}
 {%
   include button.html
   type="phone"
   text="(+45) 23 70 74 81"
+  tooltip="Phone number - (+45) 23 70 74 81"
   link="+45-23707481"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
+  tooltip="Address - Our location on Google Maps for easy navigation"
   link="https://goo.gl/maps/zRXmXWTvNAdV4iF59"
 %}
 {%
   include button.html
   type="newsletter"
   text="Subscribe to our Newsletter"
+  tooltip="Subscribe to our Newsletter"
   link="https://mailchi.mp/rm/hulman-lab-newsletter"
 %}
 
