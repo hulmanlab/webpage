@@ -9,6 +9,7 @@ The Hulman Lab is an interdisciplinary researcher group in machine learning and 
   include button.html
   type="newsletter"
   text="Subscribe to our Newsletter"
+  tooltip="Newsletter - Subscribe to our Newsletter"
   link="https://mailchi.mp/rm/hulman-lab-newsletter"
 %}
 
