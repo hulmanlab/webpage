@@ -45,99 +45,70 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 <b>2025:</b><br><br>
 
-<b>Date, time:</b> Sep 22    <br>
-<b>Article:</b>  Xu, Narayanswamy et al.  <i>LSM-2: Learning from Incomplete Wearable Sensor Data</i>, arXiv <a href="https://arxiv.org/pdf/2506.05321">Link</a>
+<b>Sep 22 </b><br>
+<b>Article:</b> Xu, Narayanswamy et al. <i>LSM-2: Learning from Incomplete Wearable Sensor Data</i>, arXiv <a href="https://arxiv.org/pdf/2506.05321">Link</a>
 <br><br>
 
-<b>Date, time:</b> Sep 1    <br>
-<b>Article:</b>  Ding et al.  <i>Large language multimodal models for new-onset type 2 diabetes prediction using five-year cohort electronic health records</i>, Scientific Reports. <a href="https://www.nature.com/articles/s41598-024-71020-2">Link</a>
+<b>Sep 1 </b><br>
+<b>Article:</b> Ding et al. <i>Large language multimodal models for new-onset type 2 diabetes prediction using five-year cohort electronic health records</i>, Scientific Reports. <a href="https://www.nature.com/articles/s41598-024-71020-2">Link</a>
 <br><br>
 
-<b>Date, time:</b> Jun 16    <br>
-<b>Article:</b>  Riley et al.  <i>Minimum sample size for developing a multivariable prediction model: PART II - binary and time-to-event outcomes</i>, Statistics in Medicine. <a href="https://doi.org/10.1002/sim.7992">Link</a>
+<b>Jun 16 </b><br>
+<b>Article:</b> Riley et al. <i>Minimum sample size for developing a multivariable prediction model: PART II - binary and time-to-event outcomes</i>, Statistics in Medicine. <a href="https://doi.org/10.1002/sim.7992">Link</a>
 <br><br>
 
-<b>Date, time:</b> May 26    <br>
-<b>Article:</b>  Kaufman et al. <i>Linear effects of glucose levels on voice fundamental frequency in type 2 diabetes and individuals with normoglycemia</i>, Scientific Reports. <a href="https://doi.org/10.1038/s41598-024-69620-z">Link</a>
+<b>May 26 </b><br>
+<b>Article:</b> Kaufman et al. <i>Linear effects of glucose levels on voice fundamental frequency in type 2 diabetes and individuals with normoglycemia</i>, Scientific Reports. <a href="https://doi.org/10.1038/s41598-024-69620-z">Link</a>
 <br><br>
 
-<b>Date, time:</b> May 5    <br>
-<b>Article:</b>  Carrasco-Zanini et al. <i>Multi-omic prediction of incident type 2 diabetes</i>, Diabetologia. <a href="https://doi.org/10.1007/s00125-023-06027-x">Link</a>
+<b>May 5 </b><br>
+<b>Article:</b> Carrasco-Zanini et al. <i>Multi-omic prediction of incident type 2 diabetes</i>, Diabetologia. <a href="https://doi.org/10.1007/s00125-023-06027-x">Link</a>
 <br><br>
 
-<b>Date, time:</b> Mar 24 <br>
+<b>Mar 24 </b><br>
 <b>Article:</b> Kapoor & Narayanan. <i>Leakage and the reproducibility crisis in machine-learning-based science</i>, Patterns. <a href="https://doi.org/10.1016/j.patter.2023.100804">Link</a>
 <br><br>
 
-<b>Date, time:</b> Feb 24  <br>
+<b>Feb 24 </b><br>
 <b>Article:</b> Kim et al. <i>Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data</i>, arXiv. <a href="https://doi.org/10.48550/arXiv.2401.06866">Link</a>
 <br><br>
 
-<b>Date, time:</b> Jan 27  <br>
+<b>Jan 27 </b><br>
 <b>Article:</b> Helmink et al. <i>Lifetime and 10-year cardiovascular risk prediction in individuals with type 1 diabetes: The LIFE-T1D model</i>, Diabetes, Obesity & Metabolism. <a href="https://doi.org/10.1111/dom.15531">Link</a>
 <br><br>
 
 <b>2024:</b><br><br>
 
-<b>Date, time:</b> Dec 16  <br>
+<b>Dec 16 </b><br>
 <b>Article:</b> Zhou et al. <i>A foundation model for generalizable disease detection from retinal images</i>, Nature. <a href="https://www.nature.com/articles/s41586-023-06555-x">Link</a>
 <br><br>
 
-<b>Date, time:</b> Nov 25  <br>
+<b>Nov 25 </b><br>
 <b>Article:</b> Groh et al. <i>Deep learning-aided decision support for diagnosis of skin disease across skin tones</i>, Nature Medicine. <a href="https://www.nature.com/articles/s41591-023-02728-3">Link</a>
 <br><br>
 
-<b>Date, time:</b> Oct 28 <br>
+<b>Oct 28 </b><br>
 <b>Article:</b> Maris et al. <i>Ethical use of artificial intelligence to prevent sudden cardiac death: an interview study of patient perspectives</i>, BMC Medical Ethics. <a href="https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-024-01042-y">Link</a>
 <br><br>
 
-<b>Date, time:</b> Sep 23 <br>
+<b>Sep 23 </b><br>
 <b>Article:</b> Jiang et al. <i>Health system-scale language models are all-purpose prediction engines</i>, Nature. <a href="https://www.nature.com/articles/s41586-023-06160-y">Link</a>
 <br><br>
 
-<b>Date, time:</b> Aug 26  <br>
+<b>Aug 26 </b><br>
 <b>Article:</b> Hughes et al. <i>A deep learning-based electrocardiogram risk score for long term cardiovascular death and disease</i>, npj Digital Medicine. <a href="https://www.nature.com/articles/s41746-023-00916-6">Link</a>
 <br><br>
 
-<b>Date, time:</b> Jun 24  <br>
+<b>Jun 24 </b><br>
 <b>Article:</b> Deng et al. <i>Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients</i>, npj Digital Medicine. <a href="https://www.nature.com/articles/s41746-021-00480-x">Link</a>
 <br><br>
 
-<b>Date, time:</b> May 27  <br>
+<b>May 27 </b><br>
 <b>Article:</b> Tang et al. <i>Evaluating large language models on medical evidence summarization</i>, npj Digital Medicine. <a href="https://www.nature.com/articles/s41746-023-00896-7">Link</a>
 <br><br>
 
-
-<b>Date, time:</b> Apr 15  <br>
+<b>Apr 15 </b><br>
 <b>Article:</b> Collins et al. <i>Evaluation of clinical prediction models (part 1): from development to external validation</i>, BMJ. <a href="https://doi.org/10.1136/bmj-2023-074819">Link</a>
-<br><br>
-
-
-<b>Date, time:</b> Mar 18  <br>
-<b>Article:</b> Kaufman et al. <i>Acoustic Analysis and Prediction of Type 2 Diabetes Mellitus Using Smartphone-Recorded Voice Segments.</i>, MAYO CLINIC PROCEEDINGS: DIGITAL HEALTH. <a href="https://www.mcpdigitalhealth.org/action/showPdf?pii=S2949-7612%2823%2900073-1">Link</a>
-<br><br>
-
-
-<b>Date, time:</b> Feb 26  <br>
-<b>Article:</b> Lee et al. <i>Multimodal deep learning of fundus abnormalities and traditional risk factors for cardiovascular risk prediction</i>, npj Digital Medicine. <a href="https://doi.org/10.1038/s41746-023-00748-4">Link</a>
-<br><br>
-
-<b>Date, time:</b> Jan 22  <br>
-<b>Article:</b> Placido et al. <i>A deep learning algorithm to predict risk of pancreatic cancer from disease trajectories</i>, Nature Medicine. <a href="https://doi.org/10.1038/s41591-023-02332-5">Link</a>
-<br><br>
-
-<b>2023:</b><br><br>
-
-<b>Date, time:</b> Dec 18  <br>
-<b>Article:</b> Vistisen et al. <i>Prediction of First Cardiovascular Disease Event in Type 1 Diabetes Mellitus: The Steno Type 1 Risk Engine</i>, Circulation. <a href="https://doi.org/10.1161/CIRCULATIONAHA.115.018844">Link</a>
-<br><br>
-
-<b>Date, time:</b> Nov 20  <br>
-<b>Article:</b> Vistisen et al. <i>Machine learning for medical imaging: methodological failures and recommendations for the future</i>, npj Digital Medicine. <a href="https://www.nature.com/articles/s41746-022-00592-y">Link</a>
-<br><br>
-
-<b>Date, time:</b> Oct 9  <br>
-<b>Article:</b> Li et al. <i>Consistency of variety of machine learning and statistical models in predicting clinical risks of individual patients: longitudinal cohort study using cardiovascular disease as exemplar</i>, BMJ. <a href="https://doi.org/10.1136/bmj.m3919">Link</a>
 <br><br>
 
 </details>
