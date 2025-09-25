@@ -11,7 +11,6 @@ Our lab shares the passion for data science and a thrive to make a difference fo
 
 {% include section.html %}
 
-### Members
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="description: Postdoc" %}
@@ -21,10 +20,8 @@ Our lab shares the passion for data science and a thrive to make a difference fo
 
 
 <details style="text-align: left;">
-  <summary style="font-size: 1.17em; font-weight: bold; cursor: pointer;">
-    Meet the former members of our team
-  </summary>
-  <br><br>
+<summary>Meet the former members of the group</summary>
+<br><br>
 
 {% include list.html 
    data="members" 
