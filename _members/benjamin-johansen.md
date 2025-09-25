@@ -1,7 +1,7 @@
 ---
 name: Benjamin Lebiecka-Johansen
 image: images/benjamin-lebiecka-johansen.jpg
-description: Alumnus
+description: Postdoc(Alumnus)
 role: benjaminjohansen
 aliases:
   - BL. Johansen
