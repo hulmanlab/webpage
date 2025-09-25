@@ -27,10 +27,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **2025 Fall Plan**
 
-**Date, time** Sep 22, 12-13  
-**Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Xu, Narayanswamy et al. *LSM-2: Learning from Incomplete Wearable Sensor Data*, Google Research. [Link](https://arxiv.org/pdf/2506.05321)
-
 **Date, time** Oct 20, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Dennis et al. *A five-drug class model using routinely available clinical features to optimise prescribing in type 2 diabetes: a prediction model development and validation study*, The Lancet. [Link](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)02617-5/fulltext)
@@ -48,6 +44,10 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 <br><br>
 
 <b>2025:</b><br><br>
+
+<b>Date, time:</b> Sep 22    <br>
+<b>Article:</b>  Xu, Narayanswamy et al.  <i>LSM-2: Learning from Incomplete Wearable Sensor Data</i>, arXiv <a href="https://arxiv.org/pdf/2506.05321">Link</a>
+<br><br>
 
 <b>Date, time:</b> Sep 1    <br>
 <b>Article:</b>  Ding et al.  <i>Large language multimodal models for new-onset type 2 diabetes prediction using five-year cohort electronic health records</i>, Scientific Reports. <a href="https://www.nature.com/articles/s41598-024-71020-2">Link</a>
