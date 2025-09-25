@@ -6,7 +6,7 @@ role: benjaminjohansen
 aliases:
   - BL. Johansen
 links:
-  email: benleb@rm.dk
+  email: benji.johansen@gmail.com
   github: benjaminjohansen
   orcid: 0000-0002-6516-4757
   linkedin: johansenbenjamin
