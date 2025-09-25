@@ -20,7 +20,7 @@ Our lab shares the passion for data science and a thrive to make a difference fo
 {% include list.html data="members" component="portrait" filters="description: Student Assistant" %}
 
 
-### Alumnies
+### Alumni
 <details style="text-align: left;">
 <summary>Meet the former members of our team</summary>
 <br><br>
