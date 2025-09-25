@@ -21,7 +21,9 @@ Our lab shares the passion for data science and a thrive to make a difference fo
 
 
 <details style="text-align: left;">
-  <summary><h3>Meet the former members of our team</h3></summary>
+  <summary style="font-size: 1.17em; font-weight: bold; cursor: pointer;">
+    Meet the former members of our team
+  </summary>
   <br><br>
 
 {% include list.html 
