@@ -19,21 +19,21 @@ Our lab shares the passion for data science and a thrive to make a difference fo
 {% include list.html data="members" component="portrait" filters="description: Research Assistant" %}
 {% include list.html data="members" component="portrait" filters="description: Student Assistant" %}
 
-Subscribe to our [newsletter](https://mailchi.mp/rm/hulman-lab-newsletter) to hear about job openings or contact [Adam](mailto:adahul@rm.dk) if you are interested in collaborating with us.
 
 ### Alumnies
 <details style="text-align: left;">
-<summary>Read about former members of the team</summary>
+<summary>Meet the former members of our team</summary>
 <br><br>
 
-<b>Benjamin Lebiecka-Johansen</b><br><br>
-{%
-  include figure.html
-  image="images/benjamin-lebiecka-johansen.jpg"
-%}
+{% include list.html 
+   data="members" 
+   component="portrait" 
+   filters="name: Benjamin Lebiecka-Johansen" %}
 
 [Benjamin](https://www.linkedin.com/in/johansenbenjamin/) was a postdoctoral researcher at Steno Diabetes Center Aarhus from [X-Y], where he applied his engineering skills to develop digital solutions for health care. He has a PhD in Human-Computer Interaction from DTU Compute, where he used ubiquitous computing, data mining and machine learning to enhance hearing health care and user experience. At the Hulman Lab, Benjamin oversees the technical infrastructure, collaborates with external partners, mentors undergraduate and PhD students, and bridges the gap between clinicians and machine learning researchers. He also leads innovation sprints and projects that aim to deliver tangible outcomes. Benjamin is now a machine learning engineer at [Neurospace](https://neurospace.io/).
 <br><br>
+
+Subscribe to our [newsletter](https://mailchi.mp/rm/hulman-lab-newsletter) to hear about job openings or contact [Adam](mailto:adahul@rm.dk) if you are interested in collaborating with us.
 
 {% include section.html %}
 
