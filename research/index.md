@@ -7,6 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 ## Latest publications in ML/AI
+### Predicting running-related injuries based on runner characteristics
+Kloppenborg A, **Thomasen MMD**, Nielsen RØ, **Hulman A**, Skejø S\
+*SportRxiv* 2025; [10.51224](https://doi.org/10.51224/SRXIV.620)
 ### Trust in large language model-based solutions in healthcare among people with and without diabetes: a cross-sectional survey from the Health in Central Denmark cohort
 **Schaarup JFR**, **Isaksen AA**, Norman K, Bjerg L, **Hulman A**\
 *medRxiv* 2025; [10.1101/2025.02.24.25322734](https://doi.org/10.1101/2025.02.24.25322734)
