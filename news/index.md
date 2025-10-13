@@ -37,7 +37,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Date, time** Dec 15, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA
+**Article** Shi et al. *A multimodal visual–language foundation model for computational ophthalmology*, npj Digital Medicine. [Link](https://doi.org/10.1038/s41746-025-01772-2)
 
 <details style="text-align: left;">
 <summary>See past sessions</summary>
