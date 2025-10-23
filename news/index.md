@@ -12,6 +12,8 @@ Also, you can find links to our SoMe accounts on our personal profile pages unde
 {% include section.html %}
 
 ## Previous Newsletters
+[September, 2025](https://mailchi.mp/rm/2025sept)
+
 [November, 2024](https://mailchi.mp/rm/frrdr0n5n5-12697476)
 
 [June, 2024](https://mailchi.mp/rm/frrdr0n5n5-12691985?e=eaee5a6fe)
