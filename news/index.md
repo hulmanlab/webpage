@@ -43,11 +43,11 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Date, time** Jan 12, 12-13  
 **Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA
+**Article** Shmatko et al. *Learning the natural history of human disease with generative transformers*, Nature. [Link](https://www.nature.com/articles/s41586-025-09529-3)
 
 **Date, time** Feb 23, 12-13  
 **Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA
+**Article** Lyell et al. *More than algorithms: an analysis of safety events involving ML-enabled medical devices reported to the FDA*, Journal of the American Medical Informatics Association. [Link](https://doi.org/10.1093/jamia/ocad065)
 
 **Date, time** Mar 16, 12-13  
 **Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
