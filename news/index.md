@@ -27,8 +27,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 ### Upcoming sessions
 
-**2025 Fall Plan**
-
+**2025 Fall Programme**
 
 **Date, time** Nov 17, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
@@ -37,6 +36,36 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Date, time** Dec 15, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Shi et al. *A multimodal visual–language foundation model for computational ophthalmology*, npj Digital Medicine. [Link](https://doi.org/10.1038/s41746-025-01772-2)
+
+<br>
+
+**2026 Spring Programme**
+
+**Date, time** Jan 12, 12-13  
+**Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
+**Date, time** Feb 23, 12-13  
+**Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
+**Date, time** Mar 16, 12-13  
+**Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
+**Date, time** April 13, 12-13  
+**Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
+**Date, time** May 18, 12-13  
+**Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
+**Date, time** Jun 22, 12-13  
+**Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Article** TBA
+
+<br>
 
 <details style="text-align: left;">
 <summary>See past sessions</summary>
