@@ -29,10 +29,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **2025 Fall Programme**
 
-**Date, time** Nov 17, 12-13  
-**Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Prinder et al. *The importance of interpreting machine learning models for blood glucose prediction in diabetes: an analysis using SHAP*, Scientific Reports. [Link](https://doi.org/10.1038/s41598-023-44155-x)
-
 **Date, time** Dec 15, 12-13  
 **Location** Mellemrummet (A201-247), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Shi et al. *A multimodal visual–language foundation model for computational ophthalmology*, npj Digital Medicine. [Link](https://doi.org/10.1038/s41746-025-01772-2)
@@ -72,6 +68,11 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 <br><br>
 
 <b>2025:</b><br><br>
+
+
+<b>Nov 17 </b><br>
+<b>Article:</b> Prinder et al. <i>The importance of interpreting machine learning models for blood glucose prediction in diabetes: an analysis using SHAP</i>, Scientific Reports <a href="https://doi.org/10.1038/s41598-023-44155-x">Link</a>
+<br><br>
 
 <b>Oct 20 </b><br>
 <b>Article:</b> Dennis et al. <i>A five-drug class model using routinely available clinical features to optimise prescribing in type 2 diabetes: a prediction model development and validation study</i>, The Lancet <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)02617-5/fulltext">Link</a>
