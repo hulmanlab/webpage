@@ -7,22 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 ## Latest publications in ML/AI
+### Navigating fairness aspects of clinical prediction models
+Chakradeo K,... , **Hulman A**, Varga TV\
+*BMC Med* 2025;23(1):567 [doi: 10.1186/s12916-025-04340-3](https://link.springer.com/article/10.1186/s12916-025-04340-3)
 ### Predicting running-related injuries based on runner characteristics
 Kloppenborg A, **Thomasen MMD**, Nielsen RØ, **Hulman A**, Skejø S\
 *SportRxiv* 2025; [10.51224](https://doi.org/10.51224/SRXIV.620)
 ### Trust in large language model-based solutions in healthcare among people with and without diabetes: a cross-sectional survey from the Health in Central Denmark cohort
 **Schaarup JFR**, **Isaksen AA**, Norman K, Bjerg L, **Hulman A**\
-*medRxiv* 2025; [10.1101/2025.02.24.25322734](https://doi.org/10.1101/2025.02.24.25322734)
+*BMJ Digit Health AI* 2025; in press, preprint: [10.1101/2025.02.24.25322734](https://doi.org/10.1101/2025.02.24.25322734)
 ### Exposure to ChatGPT and its impact on the general public’s perception of AI in healthcare
 **Isaksen AA**, **Schaarup JFR**, Bjerg L, **Hulman A**\
-*medRxiv* 2025; [10.1101/2025.01.23.25321048](https://doi.org/10.1101/2025.01.23.25321048)
+*npj Digital Medicine* 2025; in press, preprint:[10.1101/2025.01.23.25321048](https://doi.org/10.1101/2025.01.23.25321048)
 ### In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review
 Jiménez-Sanchez A, Avlona N-R, de Boer S, Campello VM, Feragen A, Ferrante E, Ganz M, Gichoya JW, Gonzalez C, Groefsema S,
 Hering A, <b>Hulman&nbsp;A</b>, et al.
 *arXiv* 2025; [arXiv:25.01.10727](https://doi.org/10.48550/arXiv.2501.10727)
 ### Racial disparities in continuous glucose monitoring-based 60-min glucose predictions among people with type 1 diabetes
 **Thomsen HB**, **Li LY**, **Isaksen AA**, **Lebiecka-Johansen B**, Bour C, Fagherazzi G, van Doorn WPTM, Varga TV, **Hulman A**\
-*medRxiv* 2024; [10.1101/2024.12.19.24319325](https://doi.org/10.1101/2024.12.19.24319325)
+*PLOS Digit Health* 2024; [10.1371/journal.pdig.0000918](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000918)
 ### A health researcher’s gentle introduction to quantum computing
 **Hulman A**\
 *OSF Preprints* 2024; [10.31219/osf.io/7tcjk](https://doi.org/10.31219/osf.io/7tcjk)
