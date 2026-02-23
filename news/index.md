@@ -29,10 +29,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **2026 Spring Programme**
 
-**Date, time** ~~Feb 23~~ Feb 16, 12-13 **NOTE THE CHANGE OF DATE!**  
-**Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Lutsker et al. *A foundation model for continuous glucose monitoring data*, Nature. [Link](https://www.nature.com/articles/s41586-025-09925-9)
-
 **Date, time** Mar 16, 12-13  
 **Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Lyell et al. *More than algorithms: an analysis of safety events involving ML-enabled medical devices reported to the FDA*, Journal of the American Medical Informatics Association. [Link](https://doi.org/10.1093/jamia/ocad065)
@@ -57,6 +53,10 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 
 <b>2026:</b><br><br>
+
+<b>Feb 16 </b><br>
+<b>Article:</b> Lutsker et al. <i>A foundation model for continuous glucose monitoring data</i>, Nature <a href="https://www.nature.com/articles/s41586-025-09925-9">Link</a>
+<br><br>
 
 <b>Jan 12 </b><br>
 <b>Article:</b> Shmatko et al. <i>Learning the natural history of human disease with generative transformers</i>, Nature <a href="https://www.nature.com/articles/s41586-025-09529-3">Link</a>
