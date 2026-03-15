@@ -29,7 +29,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **2026 Spring Programme**
 
-**Date, time** Mar 16, 12-13  
+**Date, time** <s>Mar 16, 12-13</s>  <b>CANCELLED: NEW DATE TO BE ANNOUNCED</b>  
 **Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Lyell et al. *More than algorithms: an analysis of safety events involving ML-enabled medical devices reported to the FDA*, Journal of the American Medical Informatics Association. [Link](https://doi.org/10.1093/jamia/ocad065)
 
