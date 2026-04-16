@@ -30,10 +30,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **2026 Spring Programme**
 
 
-**Date, time** April 13, 12-13  
-**Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Rudnicka et al. *Automated retinal image analysis systems to triage for grading of diabetic retinopathy: a large-scale, open-label, national screening programme in England*, The Lancet Digital Health. [Link](https://doi.org/10.1016/j.landig.2025.100914)
-
 **Date, time** May 18, 12-13  
 **Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Elbéji et al. *A voice-based algorithm can predict type 2 diabetes status in USA adults: Findings from the Colive Voice study*, PLOS Digital Health. [Link](https://doi.org/10.1371/journal.pdig.0000679)
@@ -50,6 +46,10 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 
 <b>2026:</b><br><br>
+
+<b>Apr 13 </b><br>
+<b>Article:</b> Rudnicka et al. <i>Automated retinal image analysis systems to triage for grading of diabetic retinopathy: a large-scale, open-label, national screening programme in England</i>, The Lancet Digital Health <a href="https://doi.org/10.1016/j.landig.2025.100914">Link</a>
+<br><br>
 
 <b>Mar 23 </b><br>
 <b>Article:</b> Lyell et al. <i>More than algorithms: an analysis of safety events involving ML-enabled medical devices reported to the FDA</i>, Journal of the American Medical Informatics Association <a href="https://doi.org/10.1093/jamia/ocad065">Link</a>
