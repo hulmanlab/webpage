@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 Our ambition is to share major announcements, results and events on this page. While the website development is still in progress, [sign up](https://mailchi.mp/rm/hulman-lab-newsletter) to our newsletter and read our previous newsletters. 
-Also, you can find links to our SoMe accounts on our personal profile pages under the [Team](https://hulmanlab.com/team/) tab.
+Also, you can find links to our SoMe accounts on our personal profile pages under the [Team](https://hulmanlab.org/team/) tab.
 {% include section.html %}
 
 ## Previous Newsletters
