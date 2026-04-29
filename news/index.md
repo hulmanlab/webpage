@@ -34,8 +34,8 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** Elbéji et al. *A voice-based algorithm can predict type 2 diabetes status in USA adults: Findings from the Colive Voice study*, PLOS Digital Health. [Link](https://doi.org/10.1371/journal.pdig.0000679)
 
-**Date, time** Jun 22, 12-13  
-**Location** Multirummet (A201-117), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
+**Date, time** Jun <s>22</s> 15, 12-13  
+**Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
 **Article** TBA
 
 <br>
