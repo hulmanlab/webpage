@@ -36,7 +36,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Date, time** Jun <s>22</s> 15, 12-13  
 **Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** TBA
+**Article** Kocak et al. *Evaluation metrics in medical imaging AI: fundamentals, pitfalls, misapplications, and recommendations*, European Journal of Radiology Artificial Intelligence. [Link](https://www.sciencedirect.com/science/article/pii/S3050577125000283)
 
 <br>
 
