@@ -27,12 +27,12 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 ### Upcoming sessions
 
-**2026 Spring Programme**
+**2026 Fall Programme**
 
 
-**Date, time** <s>Jun 22</s> Rescheduled: Jun 15, 12-13  
-**Location** Spektrummet (A401-111), Steno Diabetes Center Aarhus (see [Contact](https://hulmanlab.com/contact/) page)  
-**Article** Kocak et al. *Evaluation metrics in medical imaging AI: fundamentals, pitfalls, misapplications, and recommendations*, European Journal of Radiology Artificial Intelligence. [Link](https://www.sciencedirect.com/science/article/pii/S3050577125000283)
+**Date, time:** TBA  
+**Location:** TBA  
+**Article:** TBA  
 
 <br>
 
@@ -42,6 +42,10 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 
 <b>2026:</b><br><br>
+
+<b>Jun 15 </b><br>
+<b>Article:</b> Kocak et al. <i>Evaluation metrics in medical imaging AI: fundamentals, pitfalls, misapplications, and recommendations</i>, European Journal of Radiology Artificial Intelligence <a href="https://www.sciencedirect.com/science/article/pii/S3050577125000283">Link</a>
+<br><br>
 
 <b>May 18 </b><br>
 <b>Article:</b> Elbéji et al. <i>A voice-based algorithm can predict type 2 diabetes status in USA adults: Findings from the Colive Voice study</i>, PLOS Digital Health <a href="https://doi.org/10.1371/journal.pdig.0000679">Link</a>
