@@ -30,9 +30,26 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **2026 Fall Programme**
 
 
-**Date, time:** TBA  
-**Location:** TBA  
+**Date, time:** Aug 24, 12.00 - 13.00  
+**Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
 **Article:** TBA  
+
+**Date, time:** Sep 28, 12.00 - 13.00    
+**Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
+**Article:** TBA  
+
+**Date, time:** Oct 19, 12.00 - 13.00    
+**Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
+**Article:** TBA  
+
+**Date, time:** Nov 30, 12.00 - 13.00  
+**Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
+**Article:** TBA  
+
+**Date, time:** Dec 21, 12.00 - 13.00  
+**Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
+**Article:** TBA  
+
 
 <br>
 
