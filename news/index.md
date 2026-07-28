@@ -32,7 +32,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Date, time:** Aug 24, 12.00 - 13.00  
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
-**Article:** TBA  
+**Article:** Carriero et al. *The Harms of Class Imbalance Corrections for Machine Learning Based Prediction Models: A Simulation Study*, Statistics in Medicine. [Link](https://doi.org/10.1002/sim.10320)  
 
 **Date, time:** Sep 28, 12.00 - 13.00    
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
