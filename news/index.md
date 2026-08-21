@@ -30,8 +30,8 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **2026 Fall Programme**
 
 
-**Date, time:** Aug 24, 12.00 - 13.00  
-**Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
+**Date, time:** ~~Aug 24, 12.00 - 13.00~~ **RESCHEDULED: Aug 31, 12 - 13.00**  
+**Location:** Spektrummet (A401-111), Steno Diabetes Center Aarhus  
 **Article:** Carriero et al. *The Harms of Class Imbalance Corrections for Machine Learning Based Prediction Models: A Simulation Study*, Statistics in Medicine. [Link](https://doi.org/10.1002/sim.10320)  
 
 **Date, time:** Sep 28, 12.00 - 13.00    
