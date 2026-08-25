@@ -34,11 +34,11 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **Location:** Spektrummet (A401-111), Steno Diabetes Center Aarhus  
 **Article:** Carriero et al. *The Harms of Class Imbalance Corrections for Machine Learning Based Prediction Models: A Simulation Study*, Statistics in Medicine. [Link](https://doi.org/10.1002/sim.10320)  
 
-**Date, time:** Sep 28, 12.00 - 13.00    
-**Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
-**Article:** TBA  
+**Date, time:** ~~Sep 28, 12.00 - 13.00~~ **RESCHEDULED: Sep 21, 12 - 13.00**  
+**Location:** Spektrummet (A401-111), Steno Diabetes Center Aarhus  
+**Article:** Johansen et al. *Detection of young-onset type 2 diabetes using deep learning across primary and secondary care: a nationwide, retrospective cohort study*, Lancet Digit Health. [Link](https://doi.org/10.1016/j.landig.2025.100968)  
 
-**Date, time:** Oct 19, 12.00 - 13.00    
+**Date, time:** Oct 19, 12.00 - 13.00  
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
 **Article:** TBA  
 
