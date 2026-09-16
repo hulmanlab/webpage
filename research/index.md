@@ -7,22 +7,30 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 ## Latest publications in ML/AI
+### Assessing the generalisability of foundation models to ultra-wide field retinal imaging for diabetic retinopathy screening in Denmark and Greenland
+**Li LY**, Thambawita V, Byberg S, **Hulman A**\
+*International Journal of Medical Informatics* 2026; [10.1016/j.ijmedinf.2026.106503](https://doi.org/10.1016/j.ijmedinf.2026.106503)
+### Comparison of foundation models and transfer learning strategies for diabetic retinopathy classification
+**Li LY**, Lebiecka-Johansen B, Byberg S, Thambawita V, **Hulman A**\
+*MedRxiv* 2026; [10.64898/2026.04.17.26351092](https://doi.org/10.64898/2026.04.17.26351092)
+### Continuous Glucose Monitoring-Derived Metrics and Cardiovascular Risk Among People With Diabetes: Systematic Scoping Review
+**Thomsen HB**, Lebiecka-Johansen B, Nørgaard O, Andersen TH, Andersen ST, Fagherazzi G, **Hulman A**, **Isaksen AA**\
+*JMIR Diabetes* 2026; [10.2196/89374](https://doi.org/10.2196/89374)
+### Changes in public perception of artificial intelligence in healthcare after exposure to ChatGPT
+**Isaksen AA**, Schaarup JR, Bjerg L, **Hulman A**\
+*NPJ Digital Medicine* 2025; [10.1038/s41746-025-02169-x](https://doi.org/10.1038/s41746-025-02169-x)
+### Trust in large language model-based solutions in healthcare among people with and without diabetes: a cross-sectional survey from the Health in Central Denmark cohort
+Schaarup JR, **Isaksen AA**, Norman K, Bjerg L, **Hulman A**\
+*BMJ Digital Health & AI* 2025; [10.1136/bmjdhai-2025-000090](https://doi.org/10.1136/bmjdhai-2025-000090)
+### In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review
+Jiménez-Sánchez A, ..., **Hulman A**, **Li LY** et al.\
+*FAccT '25: Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency* 2025; [10.1145/3715275.3732035](https://doi.org/10.1145/3715275.3732035)
 ### Navigating fairness aspects of clinical prediction models
 Chakradeo K,... , **Hulman A**, Varga TV\
 *BMC Med* 2025;23(1):567 [doi: 10.1186/s12916-025-04340-3](https://link.springer.com/article/10.1186/s12916-025-04340-3)
 ### Predicting running-related injuries based on runner characteristics
 Kloppenborg A, **Thomasen MMD**, Nielsen RØ, **Hulman A**, Skejø S\
 *SportRxiv* 2025; [10.51224](https://doi.org/10.51224/SRXIV.620)
-### Trust in large language model-based solutions in healthcare among people with and without diabetes: a cross-sectional survey from the Health in Central Denmark cohort
-**Schaarup JFR**, **Isaksen AA**, Norman K, Bjerg L, **Hulman A**\
-*BMJ Digit Health AI* 2025; in press, preprint: [10.1101/2025.02.24.25322734](https://doi.org/10.1101/2025.02.24.25322734)
-### Exposure to ChatGPT and its impact on the general public’s perception of AI in healthcare
-**Isaksen AA**, **Schaarup JFR**, Bjerg L, **Hulman A**\
-*npj Digital Medicine* 2025; in press, preprint:[10.1101/2025.01.23.25321048](https://doi.org/10.1101/2025.01.23.25321048)
-### In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review
-Jiménez-Sanchez A, Avlona N-R, de Boer S, Campello VM, Feragen A, Ferrante E, Ganz M, Gichoya JW, Gonzalez C, Groefsema S,
-Hering A, <b>Hulman&nbsp;A</b>, et al.
-*arXiv* 2025; [arXiv:25.01.10727](https://doi.org/10.48550/arXiv.2501.10727)
 ### Racial disparities in continuous glucose monitoring-based 60-min glucose predictions among people with type 1 diabetes
 **Thomsen HB**, **Li LY**, **Isaksen AA**, **Lebiecka-Johansen B**, Bour C, Fagherazzi G, van Doorn WPTM, Varga TV, **Hulman A**\
 *PLOS Digit Health* 2024; [10.1371/journal.pdig.0000918](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000918)
