@@ -36,7 +36,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Date, time:** Oct 19, 12.00 - 13.00  
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
-**Article:** TBA  
+**Article:** Chen et al. *Efficient Detection of Stigmatizing Language in Electronic Health Records via In-Context Learning: Comparative Analysis and Validation Study*, JMIR Medical Informatics. [Link](https://medinform.jmir.org/2025/1/e68955)  
 
 **Date, time:** Nov 30, 12.00 - 13.00  
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
