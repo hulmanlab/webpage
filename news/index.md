@@ -30,10 +30,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 **2026 Fall Programme**
 
 
-**Date, time:** ~~Sep 28, 12.00 - 13.00~~ **RESCHEDULED: Sep 21, 12 - 13.00**  
-**Location:** Spektrummet (A401-111), Steno Diabetes Center Aarhus  
-**Article:** Johansen et al. *Detection of young-onset type 2 diabetes using deep learning across primary and secondary care: a nationwide, retrospective cohort study*, Lancet Digit Health. [Link](https://doi.org/10.1016/j.landig.2025.100968)  
-
 **Date, time:** Oct 19, 12.00 - 13.00  
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
 **Article:** Chen et al. *Efficient Detection of Stigmatizing Language in Electronic Health Records via In-Context Learning: Comparative Analysis and Validation Study*, JMIR Medical Informatics. [Link](https://medinform.jmir.org/2025/1/e68955)  
@@ -55,6 +51,10 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 
 <b>2026:</b><br><br>
+
+<b>Sep 21 </b><br>
+<b>Article:</b>  Johansen et al. <i>Detection of young-onset type 2 diabetes using deep learning across primary and secondary care: a nationwide, retrospective cohort study</i>, Lancet Digit Health <a href="https://doi.org/10.1016/j.landig.2025.100968">Link</a>
+<br><br>
 
 <b>Aug 31 </b><br>
 <b>Article:</b> Carriero et al. <i>The Harms of Class Imbalance Corrections for Machine Learning Based Prediction Models: A Simulation Study</i>, Statistics in Medicine <a href="https://doi.org/10.1002/sim.103203">Link</a>
