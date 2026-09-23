@@ -28,6 +28,21 @@ Our lab shares the passion for data science and a thrive to make a difference fo
    component="portrait" 
    filters="name: Benjamin Lebiecka-Johansen" %}
 
+{% include list.html 
+   data="members" 
+   component="portrait" 
+   filters="name: Lærke Stenby Johansson" %}
+
+{% include list.html 
+   data="members" 
+   component="portrait" 
+   filters="name: Martin Hansen" %}
+
+{% include list.html 
+   data="members" 
+   component="portrait" 
+   filters="name: Helene Bei Thomsen" %}
+   
 <br><br>
 
 {% include section.html %}
