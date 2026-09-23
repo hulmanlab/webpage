@@ -6,6 +6,18 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
+
+<div class="research-dropdown">
+  <label for="research-sections">Explore:</label>
+  <select id="research-sections" onchange="if (this.value) window.location.href=this.value;">
+    <option value="">Select a section</option>
+    <option value="#latest-publications">Latest publications in ML/AI</option>
+    <option value="#strategic-areas">Strategic areas</option>
+    <option value="#funding">Funding</option>
+  </select>
+</div>
+
+<a id="latest-publications"></a>
 ## Latest publications in ML/AI
 ### Assessing the generalisability of foundation models to ultra-wide field retinal imaging for diabetic retinopathy screening in Denmark and Greenland
 **Li LY**, Thambawita V, Byberg S, **Hulman A**\
@@ -53,6 +65,7 @@ Schaarup JFR, Aggarwal R, Dalsgaard E-M, Norman K, Dollerup OL, Ashrafian H, Wit
 Ebbehoj A, Thunbo MØ, Andersen OE, Glindtvad MV, **Hulman A**\
 *PLOS Digit Health* 2022;1(2):e0000014. [10.1371/journal.pdig.0000014](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000014
 )
+<a id="strategic-areas"></a>
 ## Strategic areas
 ### Clinical prediction - using deep learning, where it matters
 We are mostly interested in how to integrate multimodal data (e.g. images, time series, text) in clinical risk prediction using deep learning methods in addition to commonly used variables (tabular data). In this process, we see a potential in reusing models developed in other datasets or even domains, to transfer knowledge representations between prediction tasks (e.g. using transfer learning to repurpose generic computer vision models for analysis of retina images).
@@ -64,6 +77,7 @@ The collection of clinical data is often cumbersome and expensive, while data sh
 Large language models make the power of AI accessible to a broader user group. We aim to leverage these technologies to quickly build and test prototypes among end users (e.g. in the clinic), before allocating more resources to develop complete and expensive solutions. Such case studies or proof-of-concepts can give us valuable insights about the needs and perception of AI in the clinic.
 ### The impact of AI on healthcare - end users matter
 By asking end users (patients, clinicians) about their perception of AI, e.g. hopes and fears, we aim to get valuable insights and inspiration for our work. We plan to do this by conducting large survey studies and arranging user involvement sessions.
+<a id="funding"></a>
 ## Funding
 ### Integration of longitudinal multimodal data in clinical risk prediction using deep learning (2023-2028)
 Artificial intelligence enables computer programs to execute human-like tasks like image and speech recognition, text translation, and more. These applications are based on deep learning, a method that can recognize patterns in large datasets (e.g. millions of images from the internet) and then make predictions for new cases. In this project, deep learning methods will be developed and applied in a clinical setting. Persons with type 1 diabetes visit their physicians regularly for check-ups and screening for complications. Some of them also monitor their health using wearable devices even between visits. Combining these data creates a unique opportunity for the development of clinical prediction models that can assist clinicians to tailor prevention and treatment. However, complex data of different types (tabular, images, time series) collected repeatedly over time call for the development and application of novel deep learning methods.
