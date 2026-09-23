@@ -53,7 +53,8 @@
 // Research page navigation
 .research-nav {
   position: relative;
-  display: inline-block;
+  display: block;
+  width: fit-content;
   margin: 0 0 2rem 0;
 }
 
