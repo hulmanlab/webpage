@@ -22,6 +22,7 @@ nav:
 
 <a id="latest-publications"></a>
 ## Latest publications in ML/AI
+{: .research-publications}
 ### Assessing the generalisability of foundation models to ultra-wide field retinal imaging for diabetic retinopathy screening in Denmark and Greenland
 **Li LY**, Thambawita V, Byberg S, **Hulman A**\
 *International Journal of Medical Informatics* 2026; [10.1016/j.ijmedinf.2026.106503](https://doi.org/10.1016/j.ijmedinf.2026.106503)
