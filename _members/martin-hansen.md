@@ -1,7 +1,7 @@
 ---
 name: Martin Hansen
 image: images/martin-hansen.jpg
-description: Postdoc
+description: Alumnus
 role: martinhansen
 aliases:
   - M. Hansen
@@ -13,5 +13,5 @@ links:
   research gate: https://www.researchgate.net/profile/Martin-Hansen-6
 ---
 
-Martin is a medical doctor with a research background in public health. During his PhD at Aarhus University, he studied environmental risk factors for non-communicable diseases (including diabetes) in low- and middle-income countries. He has experience conducting both epidemiological surveys and register research.
-Martin works part-time as a clinician at the Department of Infectious Diseases at Aarhus University Hospital, and part-time as a researcher at Steno Diabetes Center, where he is developing a clinical risk score for the prediction of prevalent diabetes among African adults. He has a passion for global health and health equity, and will combine machine learning methods with his experience living and working in low-income countries (Bolivia and Uganda) to ensure that the tool developed is usable in real-world settings.
+Martin was a postdoctoral researcher at Steno Diabetes Center, and he is a medical doctor with a research background in public health. During his PhD at Aarhus University, he studied environmental risk factors for non-communicable diseases (including diabetes) in low- and middle-income countries. He has experience conducting both epidemiological surveys and register research.
+Martin worked part-time as a clinician at the Department of Infectious Diseases at Aarhus University Hospital, and part-time as a researcher at Steno Diabetes Center, where he was developing a clinical risk score for the prediction of prevalent diabetes among African adults. He has a passion for global health and health equity, and will combine machine learning methods with his experience living and working in low-income countries (Bolivia and Uganda) to ensure that the tool developed is usable in real-world settings.
