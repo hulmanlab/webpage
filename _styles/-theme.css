@@ -38,4 +38,63 @@
   --shadow: 0 0 10px 0 var(--overlay);
 }
 
+.research-nav {
+  position: relative;
+  display: inline-block;
+  margin: 0 0 2rem 0;
+}
+
+.research-nav-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--light-gray);
+  border-radius: var(--rounded);
+  background: var(--background);
+  color: var(--text);
+  font-family: var(--body);
+  font-size: var(--medium);
+  cursor: pointer;
+}
+
+.research-nav-toggle:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.research-nav-arrow {
+  font-size: 0.9rem;
+}
+
+.research-nav-menu {
+  display: none;
+  position: absolute;
+  top: calc(100% + 0.4rem);
+  left: 0;
+  min-width: 280px;
+  background: var(--background);
+  border: 1px solid var(--light-gray);
+  border-radius: var(--rounded);
+  box-shadow: var(--shadow);
+  z-index: 100;
+  overflow: hidden;
+}
+
+.research-nav.open .research-nav-menu {
+  display: block;
+}
+
+.research-nav-menu a {
+  display: block;
+  padding: 0.7rem 1rem;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.research-nav-menu a:hover {
+  background: var(--background-alt);
+  color: var(--primary);
+}
+
 /*# sourceMappingURL=-theme.css.map */
