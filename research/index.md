@@ -8,9 +8,9 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 <div class="research-dropdown">
-  <label for="research-sections">Explore:</label>
+  <label for="research-sections">Select a section:</label>
   <select id="research-sections" onchange="if (this.value) window.location.href=this.value;">
-    <option value="">Select a section</option>
+    <option value="">Latest publications in ML/AI</option>
     <option value="#latest-publications">Latest publications in ML/AI</option>
     <option value="#strategic-areas">Strategic areas</option>
     <option value="#funding">Funding</option>
