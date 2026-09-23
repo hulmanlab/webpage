@@ -7,14 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-<div class="research-dropdown">
-  <label for="research-sections">Select a section:</label>
-  <select id="research-sections" onchange="if (this.value) window.location.href=this.value;">
-    <option value="">Latest publications in ML/AI</option>
-    <option value="#latest-publications">Latest publications in ML/AI</option>
-    <option value="#strategic-areas">Strategic areas</option>
-    <option value="#funding">Funding</option>
-  </select>
+<div class="research-nav">
+  <button class="research-nav-toggle" onclick="this.parentElement.classList.toggle('open')">
+    Explore this page
+    <span class="research-nav-arrow">⌄</span>
+  </button>
+
+  <div class="research-nav-menu">
+    <a href="#latest-publications">Latest publications in ML/AI</a>
+    <a href="#strategic-areas">Strategic areas</a>
+    <a href="#funding">Funding</a>
+  </div>
 </div>
 
 <a id="latest-publications"></a>
