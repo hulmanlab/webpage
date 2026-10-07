@@ -27,6 +27,8 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 ### Upcoming sessions
 
+Don't have access to a paper? Contact andaas@rm.dk  
+
 **2026 Fall Programme**
 
 
@@ -40,7 +42,7 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **Date, time:** Dec 14, 12.00 - 13.00  
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
-**Article:** TBA  
+**Article:**Xie et al. *Generation of contrast-enhanced cardiac MRI from contrast-free scans: a multi-center, multi-manufacturer study*, European Radiology. [Link](https://doi.org/10.1007/s00330-026-12600-w) 
 
 
 <br>
