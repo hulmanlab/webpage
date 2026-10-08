@@ -38,7 +38,7 @@ Don't have access to a paper? Contact andaas@rm.dk
 
 **Date, time:** Nov 16, 12.00 - 13.00  
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
-**Article:** TBA  
+**Article:** An et al. *A deep joint-learning proteomics model for diagnosis of six conditions associated with dementia*, Nature Medicine. [Link](https://www.nature.com/articles/s41591-026-04303-y#Sec11)  
 
 **Date, time:** Dec 14, 12.00 - 13.00  
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
