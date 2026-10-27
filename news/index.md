@@ -32,17 +32,13 @@ Don't have access to a paper? Contact andaas@rm.dk
 **2026 Fall Programme**
 
 
-**Date, time:** Oct 19, 12.00 - 13.00  
-**Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
-**Article:** Chen et al. *Efficient Detection of Stigmatizing Language in Electronic Health Records via In-Context Learning: Comparative Analysis and Validation Study*, JMIR Medical Informatics. [Link](https://medinform.jmir.org/2025/1/e68955)  
-
 **Date, time:** Nov 16, 12.00 - 13.00  
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
 **Article:** An et al. *A deep joint-learning proteomics model for diagnosis of six conditions associated with dementia*, Nature Medicine. [Link](https://www.nature.com/articles/s41591-026-04303-y#Sec11)  
 
 **Date, time:** Dec 14, 12.00 - 13.00  
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
-**Article:**Xie et al. *Generation of contrast-enhanced cardiac MRI from contrast-free scans: a multi-center, multi-manufacturer study*, European Radiology. [Link](https://doi.org/10.1007/s00330-026-12600-w) 
+**Article:** Xie et al. *Generation of contrast-enhanced cardiac MRI from contrast-free scans: a multi-center, multi-manufacturer study*, European Radiology. [Link](https://doi.org/10.1007/s00330-026-12600-w) 
 
 
 <br>
@@ -53,6 +49,10 @@ Don't have access to a paper? Contact andaas@rm.dk
 
 
 <b>2026:</b><br><br>
+
+<b>Oct 19 </b><br>
+<b>Article:</b>  Chen et al. <i>Efficient Detection of Stigmatizing Language in Electronic Health Records via In-Context Learning: Comparative Analysis and Validation Study</i>, JMIR Medical Informatics <a href="https://medinform.jmir.org/2025/1/e68955">Link</a>
+<br><br>
 
 <b>Sep 21 </b><br>
 <b>Article:</b>  Johansen et al. <i>Detection of young-onset type 2 diabetes using deep learning across primary and secondary care: a nationwide, retrospective cohort study</i>, Lancet Digit Health <a href="https://doi.org/10.1016/j.landig.2025.100968">Link</a>
