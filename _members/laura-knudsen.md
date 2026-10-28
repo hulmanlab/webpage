@@ -1,6 +1,6 @@
 ---
 name: Laura Rosenstedt Knudsen
-image: images/laura-knudsen.jpg
+image: images/laura-knudsen1.jpg
 description: Research Assistant
 role: lauraknudsen
 aliases:
