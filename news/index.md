@@ -11,6 +11,9 @@ Our ambition is to share major announcements, results and events on this page. W
 Also, you can find links to our SoMe accounts on our personal profile pages under the [Team](https://hulmanlab.org/team/) tab.
 {% include section.html %}
 
+## Recent newsletter
+[October, 2026](https://mailchi.mp/rm/2025sept-12934255)
+
 ## Previous Newsletters
 [September, 2025](https://mailchi.mp/rm/2025sept)
 
