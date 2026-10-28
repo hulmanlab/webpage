@@ -1,8 +1,8 @@
 ---
-title: Journal Clubs
+title: Journal Club
 nav:
   order: 3
-  tooltip: Join our journal clubs
+  tooltip: Join our journal club
 ---
 
 # {% include icon.html icon="fa-solid fa-book-open" %}Machine Learning & Clinical Prediction Journal Club
