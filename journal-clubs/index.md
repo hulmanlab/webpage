@@ -2,14 +2,12 @@
 title: Journal Clubs
 nav:
   order: 3
-  tooltip: knowledge exchange, literature, journal club
+  tooltip: Join our journal clubs
 ---
 ## Machine Learning & Clinical Prediction Journal Club
 The MLCP journal club is a monthly, interdisciplinary journal club for anyone interested in machine learning and/or clinical prediction.  We cover technical aspects, but the focus is ultimately on the practical, clinical use-cases of machine learning (e.g. for clinical prediction of cardiovascular disease), where we dissect pitfalls and limitations to cut through the hype. Anyone can join the journal club (e.g. students, clinicians, researchers from outside of Steno Aarhus), the only expectation is that you read the actual article before joining and come with an open mindset.
 
 ### Upcoming sessions
-
-Don't have access to a paper? Contact andaas@rm.dk  
 
 **2026 Fall Programme**
 
@@ -22,6 +20,7 @@ Don't have access to a paper? Contact andaas@rm.dk
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
 **Article:** Xie et al. *Generation of contrast-enhanced cardiac MRI from contrast-free scans: a multi-center, multi-manufacturer study*, European Radiology. [Link](https://doi.org/10.1007/s00330-026-12600-w) 
 
+Don't have access to a paper? Contact andaas@rm.dk  
 
 <br>
 
