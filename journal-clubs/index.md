@@ -1,9 +1,8 @@
-
 ---
 title: Journal Clubs
 nav:
   order: 3
-  tooltip: Machine Learning & Clinical Prediction Journal Club
+  tooltip: knowledge exchange, literature, journal club
 ---
 ## Machine Learning & Clinical Prediction Journal Club
 The MLCP journal club is a monthly, interdisciplinary journal club for anyone interested in machine learning and/or clinical prediction.  We cover technical aspects, but the focus is ultimately on the practical, clinical use-cases of machine learning (e.g. for clinical prediction of cardiovascular disease), where we dissect pitfalls and limitations to cut through the hype. Anyone can join the journal club (e.g. students, clinicians, researchers from outside of Steno Aarhus), the only expectation is that you read the actual article before joining and come with an open mindset.
