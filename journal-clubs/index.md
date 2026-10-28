@@ -2,7 +2,7 @@
 ---
 title: Journal Clubs
 nav:
-  order: 5
+  order: 3
   tooltip: Machine Learning & Clinical Prediction Journal Club
 ---
 ## Machine Learning & Clinical Prediction Journal Club
