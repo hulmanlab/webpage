@@ -7,7 +7,7 @@ aliases:
   - LR. Knudsen
 links:
   email: lrk@ph.au.dk
-  linkedin: https://www.linkedin.com/in/laura-rosenstedt-knudsen-4913a7200/
+  linkedin: www.linkedin.com/in/laura-rosenstedt-knudsen-4913a7200
 
 ---
 
