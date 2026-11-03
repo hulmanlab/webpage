@@ -1,0 +1,24 @@
+{%- comment -%}
+  Past journal club sessions (before today), newest first, grouped by year.
+{%- endcomment -%}
+{%- assign today = site.time | date: "%Y%m%d" | plus: 0 -%}
+{%- assign sessions = site.data.journal_club | sort: "date" | reverse -%}
+{%- assign past = "" | split: "" -%}
+{%- for e in sessions -%}
+  {%- assign d = e.date | date: "%Y%m%d" | plus: 0 -%}
+  {%- if d < today -%}
+    {%- assign past = past | push: e -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign years = past | group_by_exp: "e", "e.date | date: '%Y'" -%}
+<details class="jc-past">
+<summary>See past sessions</summary>
+{%- for year in years %}
+<p class="jc-year">{{ year.name }}</p>
+<ul class="jc-past-list">
+{%- for e in year.items %}
+<li><strong>{{ e.date | date: "%b %-d" }}</strong><br>{{ e.authors }} <em>{{ e.title }}</em>, {{ e.journal }}. <a href="{{ e.url }}">Link</a></li>
+{%- endfor %}
+</ul>
+{%- endfor %}
+</details>

@@ -1,0 +1,71 @@
+---
+layout: null
+permalink: /journal-clubs/calendar.ics
+sitemap: false
+---
+{%- comment -%}
+  Calendar feed for the journal club, generated from _data/journal_club.yaml.
+  People subscribe to it (webcal:// link or "Subscribe" buttons on the page) and
+  their calendar app picks up new sessions and changes automatically.
+  Only sessions with a start time are included.
+{%- endcomment -%}
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hulman Lab//MLCP Journal Club//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MLCP Journal Club
+X-WR-CALDESC:Machine Learning & Clinical Prediction Journal Club at Steno Diabetes Center Aarhus
+X-WR-TIMEZONE:Europe/Copenhagen
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+BEGIN:STANDARD
+DTSTART:19701025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+END:VTIMEZONE
+{%- assign sessions = site.data.journal_club | sort: "date" %}
+{%- for e in sessions %}
+{%- if e.start %}
+{%- comment %} escape ; and , for iCalendar {% endcomment %}
+{%- capture title %}Journal Club: {{ e.title }}{% endcapture %}
+{%- assign title = title | replace: ";", "\;" | replace: ",", "\," %}
+{%- capture article %}{{ e.authors }} {{ e.title }}, {{ e.journal }}.{% endcapture %}
+{%- assign article = article | replace: ";", "\;" | replace: ",", "\," %}
+{%- assign location = e.location | default: "" | replace: ";", "\;" | replace: ",", "\," %}
+{%- assign day = e.date | date: "%Y%m%d" %}
+{%- assign start = e.start | replace: ":", "" %}
+BEGIN:VEVENT
+UID:{{ e.date | date: "%Y-%m-%d" }}-mlcp-journal-club@hulmanlab.org
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+DTSTART;TZID=Europe/Copenhagen:{{ day }}T{{ start }}00
+{%- if e.end %}
+{%- assign end = e.end | replace: ":", "" %}
+DTEND;TZID=Europe/Copenhagen:{{ day }}T{{ end }}00
+{%- else %}
+DURATION:PT1H
+{%- endif %}
+SUMMARY:{{ title }}
+{%- if location != "" %}
+LOCATION:{{ location }}
+{%- endif %}
+DESCRIPTION:Article: {{ article }}\n{{ e.url | replace: ";", "\;" | replace: ",", "\," }}\n\nPlease read the article before joining.
+{%- if e.url %}
+URL:{{ e.url }}
+{%- endif %}
+END:VEVENT
+{%- endif %}
+{%- endfor %}
+END:VCALENDAR

@@ -1,0 +1,37 @@
+{%- comment -%}
+  Upcoming journal club sessions (date today or later), from _data/journal_club.yaml.
+  "Add to calendar" buttons are added in the browser by journal-clubs/journal-club.js.
+{%- endcomment -%}
+{%- assign today = site.time | date: "%Y%m%d" | plus: 0 -%}
+{%- assign sessions = site.data.journal_club | sort: "date" -%}
+{%- assign upcoming = "" | split: "" -%}
+{%- for e in sessions -%}
+  {%- assign d = e.date | date: "%Y%m%d" | plus: 0 -%}
+  {%- if d >= today -%}
+    {%- assign upcoming = upcoming | push: e -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if upcoming.size == 0 -%}
+<p>The next programme will be announced soon. Feel free to <a href="mailto:andaas@rm.dk">suggest topics or papers</a>.</p>
+{%- else -%}
+<div class="jc-sessions">
+{%- for e in upcoming %}
+<article class="jc-session" data-uid="{{ e.date | date: '%Y-%m-%d' }}">
+<p class="jc-when"><i class="icon fa-regular fa-calendar"></i> <strong>{{ e.date | date: "%A %-d %B %Y" }}</strong>{% if e.start %} &middot; {{ e.start }}{% if e.end %}&ndash;{{ e.end }}{% endif %}{% endif %}</p>
+{%- if e.location %}
+<p class="jc-where"><i class="icon fa-solid fa-location-dot"></i> {{ e.location }}</p>
+{%- endif %}
+<p class="jc-article"><strong>Article:</strong> {{ e.authors }} <em>{{ e.title }}</em>, {{ e.journal }}. <a href="{{ e.url }}">Link</a></p>
+{%- if e.note %}
+<p class="jc-note">{{ e.note }}</p>
+{%- endif %}
+<div class="jc-actions">
+{%- if e.signup_url %}
+<a class="button" href="{{ e.signup_url }}"><i class="icon fa-solid fa-pen-to-square"></i><span>Sign up</span></a>
+{%- endif %}
+<span class="jc-add"></span>
+</div>
+</article>
+{%- endfor %}
+</div>
+{%- endif -%}

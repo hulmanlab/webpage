@@ -1,0 +1,13 @@
+{%- comment -%}
+  Calendar view of all sessions (FullCalendar), plus the subscribe buttons.
+  Session data is embedded as JSON; behaviour lives in journal-clubs/journal-club.js.
+{%- endcomment -%}
+<div class="jc-subscribe" data-feed="{{ '/journal-clubs/calendar.ics' | relative_url }}">
+<p><strong>Subscribe to all sessions.</strong> Your calendar app will add new sessions and updates automatically.</p>
+<p class="jc-sub-buttons"><a class="button" href="{{ '/journal-clubs/calendar.ics' | relative_url }}"><i class="icon fa-solid fa-file-arrow-down"></i><span>Download calendar feed (.ics)</span></a></p>
+</div>
+<div id="jc-calendar" class="jc-calendar" aria-label="Journal club calendar"></div>
+<div><dialog id="jc-dialog" class="jc-dialog" aria-label="Session details"></dialog></div>
+<script type="application/json" id="jc-data">{{ site.data.journal_club | jsonify }}</script>
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.22/index.global.min.js" defer></script>
+<script src="{{ '/journal-clubs/journal-club.js' | relative_url }}" defer></script>

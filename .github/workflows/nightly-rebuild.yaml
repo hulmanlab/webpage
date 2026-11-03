@@ -1,0 +1,22 @@
+name: nightly-rebuild
+run-name: nightly rebuild of live site
+
+# The journal club page decides at build time which sessions are "upcoming"
+# and which are "past", so the site is rebuilt every night to keep that current.
+
+on:
+  schedule:
+    # every night at 02:00 UTC
+    - cron: "0 2 * * *"
+
+  # run if user manually requests it
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-site:
+    # only run on user instance of template, not template itself
+    if: github.repository != 'greenelab/lab-website-template'
+    uses: ./.github/workflows/build-site.yaml
