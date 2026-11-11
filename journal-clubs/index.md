@@ -7,21 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book-open" %}Machine Learning & Clinical Prediction Journal Club
 
-<p>
-  Subscribe to the journal club calendar:
-  <a href="https://teamup.com/event/show/id/SjV6HeQqfm1AS9JQcrcyu5s42F8Xt2/add-to-calendar/apple" target="_blank">
-    <img src="https://teamup.com/assets-20261111071247/build/img/sharing/icon-apple.png" alt="Apple Calendar" style="width: 28px; vertical-align: middle; margin-left: 8px;">
-  </a>
-  <a href="https://teamup.com/event/show/id/SjV6HeQqfm1AS9JQcrcyu5s42F8Xt2/add-to-calendar/google" target="_blank">
-    <img src="https://teamup.com/assets-20261111071247/build/img/sharing/icon-google.png" alt="Google Calendar" style="width: 28px; vertical-align: middle; margin-left: 8px;">
-  </a>
-  <a href="https://teamup.com/event/show/id/SjV6HeQqfm1AS9JQcrcyu5s42F8Xt2/add-to-calendar/outlook" target="_blank">
-    <img src="https://teamup.com/assets-20261111071247/build/img/sharing/icon-outlook.png" alt="Outlook" style="width: 28px; vertical-align: middle; margin-left: 8px;">
-  </a>
-  <a href="https://teamup.com/event/show/id/SjV6HeQqfm1AS9JQcrcyu5s42F8Xt2/add-to-calendar?provider=teamup" target="_blank">
-    <img src="https://teamup.com/assets-20261111071247/build/img/sharing/icon-teamup.png" alt="TeamUp" style="width: 28px; vertical-align: middle; margin-left: 8px;">
-  </a>
-</p>
+{% include button.html type="calendar" text="Subscribe to our Journal Club Calendar" tooltip="Journal Club - Subscribe to Calendar" link="https://teamup.com/event/show/id/SjV6HeQqfm1AS9JQcrcyu5s42F8Xt2/add-to-calendar" %}
 
 ## Machine Learning & Clinical Prediction Journal Club
 The MLCP journal club is a monthly, interdisciplinary journal club for anyone interested in machine learning and/or clinical prediction.  We cover technical aspects, but the focus is ultimately on the practical, clinical use-cases of machine learning (e.g. for clinical prediction of cardiovascular disease), where we dissect pitfalls and limitations to cut through the hype. Anyone can join the journal club (e.g. students, clinicians, researchers from outside of Steno Aarhus), the only expectation is that you read the actual article before joining and come with an open mindset.
