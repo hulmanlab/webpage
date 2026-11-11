@@ -5,13 +5,11 @@
 
 The Hulman Lab is an interdisciplinary researcher group in machine learning and clinical prediction at [Steno Diabetes Center Aarhus](https://www.stenoaarhus.dk/), affiliated to the [Department of Public Health](https://ph.au.dk/) at Aarhus University, Denmark. We share a passion for data science and believe that applying machine learning methods to multimodal data from epidemiological cohorts and the healthcare sector can provide clinical insights and more comprehensive profiling of disease risk. 
 
-{%
-  include button.html
-  type="newsletter"
-  text="Subscribe to our Newsletter"
-  tooltip="Newsletter - Subscribe to our Newsletter"
-  link="https://mailchi.mp/rm/hulman-lab-newsletter"
-%}
+<div class="d-flex flex-wrap gap-2">
+  {% include button.html type="newsletter" text="Subscribe to our Newsletter" tooltip="Newsletter - Subscribe to our Newsletter" link="https://mailchi.mp/rm/hulman-lab-newsletter" %}
+
+  {% include button.html type="calendar" text="Subscribe to our Journal Club Calendar" tooltip="Your calendar app will add new events and updates automatically" link="https://ics.teamup.com/feed/kssmt8hvs8rv9ieu7x/16187836.ics" %}
+</div>
 
 {% 
    include figure.html 
