@@ -12,11 +12,6 @@ The MLCP journal club is a monthly, interdisciplinary journal club for anyone in
 
 **2026 Fall Programme**
 
-
-**Date, time:** Nov 16, 12.00 - 13.00  
-**Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
-**Article:** An et al. *A deep joint-learning proteomics model for diagnosis of six conditions associated with dementia*, Nature Medicine. [Link](https://www.nature.com/articles/s41591-026-04303-y#Sec11)  
-
 **Date, time:** Dec 14, 12.00 - 13.00  
 **Location:** Multirummet (A201-117), Steno Diabetes Center Aarhus  
 **Article:** Xie et al. *Generation of contrast-enhanced cardiac MRI from contrast-free scans: a multi-center, multi-manufacturer study*, European Radiology. [Link](https://doi.org/10.1007/s00330-026-12600-w) 
@@ -31,6 +26,10 @@ Don't have access to a paper? Contact andaas@rm.dk
 
 
 <b>2026:</b><br><br>
+
+<b>Nov 16 </b><br>
+<b>Article:</b> An et al. <i>A deep joint-learning proteomics model for diagnosis of six conditions associated with dementia</I>, Nature Medicine <a href="https://www.nature.com/articles/s41591-026-04303-y#Sec11">Link</a>
+<br><br>
 
 <b>Oct 19 </b><br>
 <b>Article:</b>  Chen et al. <i>Efficient Detection of Stigmatizing Language in Electronic Health Records via In-Context Learning: Comparative Analysis and Validation Study</i>, JMIR Medical Informatics <a href="https://medinform.jmir.org/2025/1/e68955">Link</a>
