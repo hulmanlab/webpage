@@ -7,7 +7,7 @@ aliases:
   - K.Zaporojets
 links:
   email: 
-  linkedin: https://www.linkedin.com/in/klim-zaporojets-9102b0a/
+  linkedin: klim-zaporojets-9102b0a/
   orcid: 
   github: 
 ---
