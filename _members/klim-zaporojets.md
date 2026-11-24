@@ -8,7 +8,7 @@ aliases:
 links:
   email: 
   linkedin: klim-zaporojets-9102b0a/
-  orcid: 
+  orcid: 0000-0003-4988-978X 
   github: 
 ---
 
